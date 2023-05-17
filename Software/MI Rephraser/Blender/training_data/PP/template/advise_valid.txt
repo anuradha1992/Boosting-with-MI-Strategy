@@ -1,0 +1,24 @@
+text:try to focus on the alternative things you can do now.	labels:I encourage you to try to focus on the alternative things you can do now.	episode_done:True
+text:get a better lawyer.	labels:You may want to get a better lawyer.	episode_done:True
+text:start with a journal for yourself.	labels:You may want to start with a journal for yourself.	episode_done:True
+text:You need to get away from your parents NOW.	labels:Perhaps you can get away from your parents NOW.	episode_done:True
+text:stop over-hyping the office of two elected officials and learn the names of the other people who influence your life.	labels:I encourage you to stop over-hyping the office of two elected officials and learn the names of the other people who influence your life.	episode_done:True
+text:You need to vent all your concerns to someone who cares and is an expert in these matters.	labels:You may want to vent all your concerns to someone who cares and is an expert in these matters.	episode_done:True
+text:put your energy into moving your own life into the direction you want.	labels:It would be a good idea to put your energy into moving your own life into the direction you want.	episode_done:True
+text:find support groups, therapy, and get help for your drug use, so you can be there for your family and be a better friend and boyfriend.	labels:I encourage you to find support groups, therapy, and get help for your drug use, so you can be there for your family and be a better friend and boyfriend.	episode_done:True
+text:You can just admit you were flirting and think she’s cute.	labels:You may want to just admit you were flirting and think she’s cute.	episode_done:True
+text:see if you can find a group on facebook or a subreddit here where people dealt with or are still dealing with the feelings.	labels:It maybe helpful to see if you can find a group on facebook or a subreddit here where people dealt with or are still dealing with the feelings.	episode_done:True
+text:try to make the best of the present.	labels:Maybe it is important to try to make the best of the present.	episode_done:True
+text:say that that's what you need and he/she won't have to violate confidentiality.	labels:It would be a good idea to say that that's what you need and he/she won't have to violate confidentiality.	episode_done:True
+text:punch something --- not a hard surface, if you do not want to actually hurt your hands.	labels:It would be a good idea to punch something --- not a hard surface, if you do not want to actually hurt your hands.	episode_done:True
+text:You should seek out help.	labels:Perhaps you can seek out help.	episode_done:True
+text:start small and eventually you will be able to start seeing yourself in all that which leads to being able to talk about yourself.	labels:Maybe it is important to start small and eventually you will be able to start seeing yourself in all that which leads to being able to talk about yourself.	episode_done:True
+text:You could also look into ways to get more followers to feel further validated in that sense.	labels:It may be important to also look into ways to get more followers to feel further validated in that sense.	episode_done:True
+text:drink lots of water!!!	labels:It may be important to drink lots of water!!!	episode_done:True
+text:wait until you’re over 40.	labels:It may be important to wait until you’re over 40.	episode_done:True
+text:try to extend that joy and let them be excited.	labels:I would encourage you to try to extend that joy and let them be excited.	episode_done:True
+text:gotta start with the things you enjoy and build on them.	labels:I would encourage you to gotta start with the things you enjoy and build on them.	episode_done:True
+text:try with flash cards, with recording the info and listen to it as if it was a song, watch some videos on youtube, try to copy the most important things, etc.	labels:Perhaps you can try with flash cards, with recording the info and listen to it as if it was a song, watch some videos on youtube, try to copy the most important things, etc.	episode_done:True
+text:share your feelings.	labels:It may be important to share your feelings.	episode_done:True
+text:wait until you’re over 40.	labels:It may be important to wait until you’re over 40.	episode_done:True
+text:take a break if life overwhelms you.	labels:I wonder if you can take a break if life overwhelms you.	episode_done:True

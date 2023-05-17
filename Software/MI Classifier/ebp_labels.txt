@@ -1,0 +1,15 @@
+Closed Question,0
+Open Question,1
+Simple Reflection,2
+Complex Reflection,3
+Give Information,4
+Advise with Permission,5
+Affirm,6
+Emphasize Autonomy,7
+Support,8
+Advise without Permission,9
+Confront,10
+Direct,11
+Warn,12
+Self-Disclose,13
+Other,14

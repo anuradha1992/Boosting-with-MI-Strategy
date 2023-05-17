@@ -1,0 +1,24 @@
+text:You could offer to collect your desk and chair or ask to expense a new one.	labels:I wonder if you can offer to collect your desk and chair or ask to expense a new one.	episode_done:True
+text:try to get a job and save up every penny you can if you don't have bills to pay right now.	labels:I would encourage you to try to get a job and save up every penny you can if you don't have bills to pay right now.	episode_done:True
+text:You should probably be talking with a professional about all of this.	labels:You may want to probably be talking with a professional about all of this.	episode_done:True
+text:try not to compare yourself to others and you'll feel a lot better )	labels:I would encourage you to try not to compare yourself to others and you'll feel a lot better  )	episode_done:True
+text:try to live maybe things will get better or maybe not nobody knows.	labels:Maybe it is important to try to live maybe things will get better or maybe not nobody knows.	episode_done:True
+text:try with flash cards, with recording the info and listen to it as if it was a song, watch some videos on youtube, try to copy the most important things, etc.	labels:It would be a good idea to try with flash cards, with recording the info and listen to it as if it was a song, watch some videos on youtube, try to copy the most important things, etc.	episode_done:True
+text:You should probably be talking with a professional about all of this.	labels:Perhaps you can probably be talking with a professional about all of this.	episode_done:True
+text:keep on truckin my dude, anxiety is a scary scary thing i know it's hard.	labels:Perhaps you can keep on truckin my dude, anxiety is a scary scary thing i know it's hard.	episode_done:True
+text:I think you should call your doctors office and ask because these thing might be specific from office to office.	labels:Maybe it is important to call your doctors office and ask because these thing might be specific from office to office.	episode_done:True
+text:You need to find a counsellor you can trust, which definitely makes a huge difference.	labels:It would be a good idea to find a counsellor you can trust, which definitely makes a huge difference.	episode_done:True
+text:You could talk to me about your problems, I could talk to you about mine and you could try not to be 'brutally honest'.	labels:It may be important to talk to me about your problems, I could talk to you about mine and you could try not to be 'brutally honest'.	episode_done:True
+text:tell your doctor/ nurse / shaman and they can probably just up the dosage of medication or put u on some	labels:I would encourage you to tell your doctor/ nurse / shaman and they can probably just up the dosage of medication or put u on some	episode_done:True
+text:go find another job it's a sign that you needed to get out from that toxic place	labels:An option would be to go find another job it's a sign that you needed to get out from that toxic place	episode_done:True
+text:try not to sleep more than 10h.	labels:You may want to try not to sleep more than 10h.	episode_done:True
+text:try looking that up and see if it sounds right.	labels:It may be important to try looking that up and see if it sounds right.	episode_done:True
+text:You can reset your outlook on life.	labels:I wonder if you can reset your outlook on life.	episode_done:True
+text:try to get a job and save up every penny you can if you don't have bills to pay right now.	labels:I would encourage you to try to get a job and save up every penny you can if you don't have bills to pay right now.	episode_done:True
+text:keep looking, though, and try to find positivity.	labels:It may be important to keep looking, though, and try to find positivity.	episode_done:True
+text:You should tell your partner.	labels:You may want to tell your partner.	episode_done:True
+text:You could visit home for an extended holiday during the Christmas break if that's possible.	labels:It may be important to visit home for an extended holiday during the Christmas break if that's possible.	episode_done:True
+text:You should speak to a therapist about this, it could really help you.	labels:It would be a good idea to speak to a therapist about this, it could really help you.	episode_done:True
+text:You could maybe try online dating, not necessarily to meet-and-date, but it will help to bring your confidence back up again.	labels:It would be a good idea to maybe try online dating, not necessarily to meet-and-date, but it will help to bring your confidence back up again.	episode_done:True
+text:You need to balance your time with work and school.	labels:I would encourage you to balance your time with work and school.	episode_done:True
+text:You could do something good with your life.	labels:I wonder if you can do something good with your life.	episode_done:True

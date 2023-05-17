@@ -1,0 +1,192 @@
+text:You should be very careful.	labels:I would encourage you to be very careful.	episode_done:True
+text:embrace those emotions you have.	labels:I encourage you to embrace those emotions you have.	episode_done:True
+text:give the police that ip address.	labels:I wonder if you can give the police that ip address.	episode_done:True
+text:try limiting your screen time in your phone settings and just step away from the black mirror for a while	labels:An option would be to try limiting your screen time in your phone settings and just step away from the black mirror for a while	episode_done:True
+text:take care friend and come back and don't hesitate to talk to us whenever you need to.	labels:An option would be to take care friend and come back and don't hesitate to talk to us whenever you need to.	episode_done:True
+text:try doing new things first or old once that you haven’t done in a while.	labels:It maybe helpful to try doing new things first or old once that you haven’t done in a while.	episode_done:True
+text:take some time, consider what you really want to do and only do anything when you're sure of what the consequences will be.	labels:Maybe it is important to take some time, consider what you really want to do and only do anything when you're sure of what the consequences will be.	episode_done:True
+text:think about how often we regret things we've done in the past.	labels:An option would be to think about how often we regret things we've done in the past.	episode_done:True
+text:let them ease your fears.	labels:Maybe it is important to let them ease your fears.	episode_done:True
+text:thank you but please show this to them if you do it you will do a service to all the people who respect quarantine	labels:I would encourage you to thank you but please show this to them if you do it you will do a service to all the people who respect quarantine	episode_done:True
+text:share your feelings.	labels:I would encourage you to share your feelings.	episode_done:True
+text:You should also find someone to be accountable to, that you can talk to every time you feel like relapsing.	labels:You may want to also find someone to be accountable to, that you can talk to every time you feel like relapsing.	episode_done:True
+text:try a new hobby so your mind is focused somewhere else!	labels:It would be a good idea to try a new hobby so your mind is focused somewhere else!	episode_done:True
+text:keep looking, though, and try to find positivity.	labels:I would encourage you to keep looking, though, and try to find positivity.	episode_done:True
+text:take good care.	labels:Perhaps you can take good care.	episode_done:True
+text:try to wake up 30min or 1h earlier every day until you reach 10h of sleep.	labels:It would be a good idea to try to wake up 30min or 1h earlier every day until you reach 10h of sleep.	episode_done:True
+text:learn to love the new paint color and keep reminding yourself that it’s the same house and it will always be the same house, just some things have changed.	labels:It may be important to learn to love the new paint color and keep reminding yourself that it’s the same house and it will always be the same house, just some things have changed.	episode_done:True
+text:work out.	labels:It maybe helpful to work out.	episode_done:True
+text:try starting with a small problem.step by step.	labels:Maybe it is important to try starting with a small problem.step by step.	episode_done:True
+text:You need to say how you feel to either get back together or find closure.	labels:Maybe it is important to say how you feel to either get back together or find closure.	episode_done:True
+text:You need to talk about it with someone, I understand, it may be that you could approach the subject delicately.	labels:I encourage you to talk about it with someone, I understand, it may be that you could approach the subject delicately.	episode_done:True
+text:give yourself more credit here!	labels:I encourage you to give yourself more credit here!	episode_done:True
+text:go running like crazy, your lungs and your legs will hurt.	labels:It may be important to go running like crazy, your lungs and your legs will hurt.	episode_done:True
+text:pm me, ill talk to you, i cant promise that i can magicly fix you.	labels:I would encourage you to pm me, ill talk to you, i cant promise that i can magicly fix you.	episode_done:True
+text:You could also consider therapy.	labels:You may want to also consider therapy.	episode_done:True
+text:let life happen.	labels:I encourage you to let life happen.	episode_done:True
+text:You can also try meeting new people .	labels:I wonder if you can also try meeting new people .	episode_done:True
+text:You can write phrases, cut out words from a magazine, draw how you feel, etc.	labels:Maybe it is important to write phrases, cut out words from a magazine, draw how you feel, etc.	episode_done:True
+text:take it as a learning experience.	labels:It maybe helpful to take it as a learning experience.	episode_done:True
+text:believe me honesty is the best policy and he will appreciate you being honest with him and letting him know how you feel currently.	labels:I encourage you to believe me honesty is the best policy and he will appreciate you being honest with him and letting him know how you feel currently.	episode_done:True
+text:drink lots of water!!!	labels:Perhaps you can drink lots of water!!!	episode_done:True
+text:hand this information to professionals and let them decide.	labels:Perhaps you can hand this information to professionals and let them decide.	episode_done:True
+text:eat something if you feel dizzy.	labels:Maybe it is important to eat something if you feel dizzy.	episode_done:True
+text:You could take public transportation or your parents could take you there.	labels:It would be a good idea to take public transportation or your parents could take you there.	episode_done:True
+text:keep your eyes open.	labels:I encourage you to keep your eyes open.	episode_done:True
+text:embrace those emotions you have.	labels:An option would be to embrace those emotions you have.	episode_done:True
+text:look around, take stock of your world and see what can be done to make it better for you.	labels:It maybe helpful to look around, take stock of your world and see what can be done to make it better for you.	episode_done:True
+text:try limiting your screen time in your phone settings and just step away from the black mirror for a while	labels:I would encourage you to try limiting your screen time in your phone settings and just step away from the black mirror for a while	episode_done:True
+text:You can always carry on CS along side your other subject .	labels:Perhaps you can always carry on CS along side your other subject .	episode_done:True
+text:try and help your gran dude	labels:I wonder if you can try and help your gran dude	episode_done:True
+text:try and help your gran dude	labels:I wonder if you can try and help your gran dude	episode_done:True
+text:take some time to settle down, eat a box of ice cream if it makes you feel better.	labels:An option would be to take some time to settle down, eat a box of ice cream if it makes you feel better.	episode_done:True
+text:focus on what you want and don't let dissapointments sway you from your goal.	labels:Perhaps you can focus on what you want and don't let dissapointments sway you from your goal.	episode_done:True
+text:hand this information to professionals and let them decide.	labels:You may want to hand this information to professionals and let them decide.	episode_done:True
+text:keep a progress report on how you're doing.	labels:It would be a good idea to keep a progress report on how you're doing.	episode_done:True
+text:try not to sleep more than 10h.	labels:I encourage you to try not to sleep more than 10h.	episode_done:True
+text:I suggest you distance yourself from how you feel by breaking it down into technical behaviour patterns.	labels:You may want to distance yourself from how you feel by breaking it down into technical behaviour patterns.	episode_done:True
+text:You need to try to change your mindset, talking about problems is very human and you're not burdening anyone by telling them how you feel!	labels:Maybe it is important to try to change your mindset, talking about problems is very human and you're not burdening anyone by telling them how you feel!	episode_done:True
+text:do something small for a stranger every day.	labels:I wonder if you can do something small for a stranger every day.	episode_done:True
+text:concentrate on you and find a path you want to follow.	labels:I encourage you to concentrate on you and find a path you want to follow.	episode_done:True
+text:buy a vacuum cleaner.	labels:You may want to buy a vacuum cleaner.	episode_done:True
+text:talk with us, open up more.	labels:An option would be to talk with us, open up more.	episode_done:True
+text:You should never feel bad about taking time away to help yourself!	labels:An option would be to never feel bad about taking time away to help yourself!	episode_done:True
+text:You could also try rubbing your thumb up and down the inside of your forearm or on your palm.	labels:It would be a good idea to also try rubbing your thumb up and down the inside of your forearm or on your palm.	episode_done:True
+text:put the phone in plain sight and say what you need to say.	labels:Perhaps you can put the phone in plain sight and say what you need to say.	episode_done:True
+text:You can start by planting trees, to be honest , that's actually more important than creating stuff that destroys environment.	labels:It would be a good idea to start by planting trees, to be honest , that's actually more important than creating stuff that destroys environment.	episode_done:True
+text:compared to most it sounds like you just need to tweak a few things to get your life back on track.	labels:It would be a good idea to compared to most it sounds like you just need to tweak a few things to get your life back on track.	episode_done:True
+text:try to spend time doing things you enjoy - not things you used to enjoy which have since lost what made them fun but spend time doing your best to enjoy yourself and always try to find ways to give meaning to your life so that you have something to pull yourself away from the dark thoughts	labels:It maybe helpful to try to spend time doing things you enjoy - not things you used to enjoy which have since lost what made them fun but spend time doing your best to enjoy yourself and always try to find ways to give meaning to your life so that you have something to pull yourself away from the dark thoughts	episode_done:True
+text:You could also try rubbing your thumb up and down the inside of your forearm or on your palm.	labels:I wonder if you can also try rubbing your thumb up and down the inside of your forearm or on your palm.	episode_done:True
+text:thank god you are done with him.	labels:I wonder if you can thank god you are done with him.	episode_done:True
+text:go to google and search for a singles hangout for your city.	labels:I would encourage you to go to google and search for a singles hangout for your city.	episode_done:True
+text:You shouldn't feel guilty over who you want to date.	labels:You may want ton't feel guilty over who you want to date.	episode_done:True
+text:choose what you want but never make a choice based on fear.	labels:It maybe helpful to choose what you want but never make a choice based on fear.	episode_done:True
+text:talk to him about it, better than killing yourself over some feelings of jealously.	labels:I wonder if you can talk to him about it, better than killing yourself over some feelings of jealously.	episode_done:True
+text:give it like a year and you'll be fully transformed.	labels:It may be important to give it like a year and you'll be fully transformed.	episode_done:True
+text:try not to think of it as below you, times can be tough for the best of us.	labels:I encourage you to try not to think of it as below you, times can be tough for the best of us.	episode_done:True
+text:think about how often we regret things we've done in the past.	labels:It may be important to think about how often we regret things we've done in the past.	episode_done:True
+text:You should be very careful.	labels:You may want to be very careful.	episode_done:True
+text:I think you should really take some time to work on your perfectionist tendencies and take it easier on yourself.	labels:An option would be to really take some time to work on your perfectionist tendencies and take it easier on yourself.	episode_done:True
+text:let your counselor know exactly how you feel, that you need help urgently.	labels:It would be a good idea to let your counselor know exactly how you feel, that you need help urgently.	episode_done:True
+text:think to yourself, watching tv makes me happy.	labels:I encourage you to think to yourself, watching tv makes me happy.	episode_done:True
+text:fold your damn clothes.	labels:Perhaps you can fold your damn clothes.	episode_done:True
+text:try a new hobby so your mind is focused somewhere else!	labels:Maybe it is important to try a new hobby so your mind is focused somewhere else!	episode_done:True
+text:eat something if you feel dizzy.	labels:You may want to eat something if you feel dizzy.	episode_done:True
+text:You could also just dump the ashes in a lake or something, as long as you don't get caught no one can do anything.	labels:It would be a good idea to also just dump the ashes in a lake or something, as long as you don't get caught no one can do anything.	episode_done:True
+text:You cannot win with him, so you much win with yourself by getting through this on your own.	labels:It would be a good idea tonot win with him, so you much win with yourself by getting through this on your own.	episode_done:True
+text:thank god you are done with him.	labels:I wonder if you can thank god you are done with him.	episode_done:True
+text:choose what you want but never make a choice based on fear.	labels:I wonder if you can choose what you want but never make a choice based on fear.	episode_done:True
+text:You can always tell your doctor if you feel bad after them.	labels:I encourage you to always tell your doctor if you feel bad after them.	episode_done:True
+text:try having smaller meals spaced out every few hours.	labels:I would encourage you to try having smaller meals spaced out every few hours.	episode_done:True
+text:perceive every time you wake up as a new slate )	labels:An option would be to perceive every time you wake up as a new slate  )	episode_done:True
+text:You shouldnt blame them....since you should be maturing to where you depend less on them since you are already 16.	labels:Perhaps you cannt blame them....since you should be maturing to where you depend less on them since you are already 16.	episode_done:True
+text:go out and try to do new things.	labels:I would encourage you to go out and try to do new things.	episode_done:True
+text:go running like crazy, your lungs and your legs will hurt.	labels:I wonder if you can go running like crazy, your lungs and your legs will hurt.	episode_done:True
+text:take a deep breath and realize that is the reason the pics are up is for people to 'like' them.	labels:I encourage you to take a deep breath and realize that is the reason the pics are up is for people to 'like' them.	episode_done:True
+text:take good care.	labels:I would encourage you to take good care.	episode_done:True
+text:close your eyes and try to reimagine ur favourit memory as best as you can picture it try to describe every detail smell,the people the weather the location etc..	labels:Maybe it is important to close your eyes and try to reimagine ur favourit memory as best as you can picture it try to describe every detail smell,the people the weather the location etc..	episode_done:True
+text:Maybe you could look into it and get your mom interested.	labels:Maybe it is important to look into it and get your mom interested.	episode_done:True
+text:You need to eat so you can feed your baby!	labels:Maybe it is important to eat so you can feed your baby!	episode_done:True
+text:try to wake up 30min or 1h earlier every day until you reach 10h of sleep.	labels:I wonder if you can try to wake up 30min or 1h earlier every day until you reach 10h of sleep.	episode_done:True
+text:stop over-hyping the office of two elected officials and learn the names of the other people who influence your life.	labels:Perhaps you can stop over-hyping the office of two elected officials and learn the names of the other people who influence your life.	episode_done:True
+text:try to get on some kind of medication if you can, in the mean time, try to find a careers service or helpline that can help you, colleges and universities can sometimes offer careers support.	labels:Maybe it is important to try to get on some kind of medication if you can, in the mean time, try to find a careers service or helpline that can help you, colleges and universities can sometimes offer careers support.	episode_done:True
+text:You should Just give some time for you tô think about it and try to be the best person you can, Just try have a Nice conversation with this girl, probably she can help you much more than i can.	labels:Perhaps you can Just give some time for you tô think about it and try to be the best person you can, Just try have a Nice conversation with this girl, probably she can help you much more than i can.	episode_done:True
+text:You should investigate into your province.	labels:Perhaps you can investigate into your province.	episode_done:True
+text:let life do its thing!	labels:Maybe it is important to let life do its thing!	episode_done:True
+text:You can take an over the counter allergy medication to see if that doesn't dry up your weeping problem.	labels:Maybe it is important to take an over the counter allergy medication to see if that doesn't dry up your weeping problem.	episode_done:True
+text:try to make the best of the present.	labels:It maybe helpful to try to make the best of the present.	episode_done:True
+text:take that birthday card and put it in a big box with all her other gifts and cards because she will open and read each one.	labels:Perhaps you can take that birthday card and put it in a big box with all her other gifts and cards because she will open and read each one.	episode_done:True
+text:You cant tell your self cant, cause you proved once to your self can.	labels:An option would be tot tell your self cant, cause you proved once to your self can.	episode_done:True
+text:try to get rid of that bottle of rum.	labels:Perhaps you can try to get rid of that bottle of rum.	episode_done:True
+text:think about what in a friendship is important for you.	labels:It maybe helpful to think about what in a friendship is important for you.	episode_done:True
+text:find what makes you happy and live a good life.	labels:Perhaps you can find what makes you happy and live a good life.	episode_done:True
+text:try to look for people with whom it just works, not to fix it with those with whom it doesn't.	labels:It may be important to try to look for people with whom it just works, not to fix it with those with whom it doesn't.	episode_done:True
+text:go on walks.	labels:I wonder if you can go on walks.	episode_done:True
+text:support your sister and try to get everyone into counselling, even if it’s not affordable, in situations like this there are at least a ton of free or affordable options for kids under 18.	labels:I wonder if you can support your sister and try to get everyone into counselling, even if it’s not affordable, in situations like this there are at least a ton of free or affordable options for kids under 18.	episode_done:True
+text:think about the best move possible at that point in time.	labels:Maybe it is important to think about the best move possible at that point in time.	episode_done:True
+text:talk to me when you turn 30 and get confused because you still feel 20 in your mind.	labels:It may be important to talk to me when you turn 30 and get confused because you still feel 20 in your mind.	episode_done:True
+text:keep water all the time.	labels:It maybe helpful to keep water all the time.	episode_done:True
+text:take that alcohol and save it for a bbq or good football game.	labels:Perhaps you can take that alcohol and save it for a bbq or good football game.	episode_done:True
+text:keep seeing different doctors until you find one who will take you seriously and not act like an ass to you.	labels:Perhaps you can keep seeing different doctors until you find one who will take you seriously and not act like an ass to you.	episode_done:True
+text:thank you but please show this to them if you do it you will do a service to all the people who respect quarantine	labels:I would encourage you to thank you but please show this to them if you do it you will do a service to all the people who respect quarantine	episode_done:True
+text:keep the hope for better days and maybe they will come.	labels:Maybe it is important to keep the hope for better days and maybe they will come.	episode_done:True
+text:keep looking at that light!	labels:It may be important to keep looking at that light!	episode_done:True
+text:think about your hobbies, the things you like to do, and find someone or a community who also likes those things.	labels:I wonder if you can think about your hobbies, the things you like to do, and find someone or a community who also likes those things.	episode_done:True
+text:Maybe you could look into it and get your mom interested.	labels:I wonder if you can look into it and get your mom interested.	episode_done:True
+text:You could offer to collect your desk and chair or ask to expense a new one.	labels:It maybe helpful to offer to collect your desk and chair or ask to expense a new one.	episode_done:True
+text:type the ip address into google, then try and get into contact with the police.	labels:Perhaps you can type the ip address into google, then try and get into contact with the police.	episode_done:True
+text:get online, chat it up on online chats, go to webcam chats.	labels:Maybe it is important to get online, chat it up on online chats, go to webcam chats.	episode_done:True
+text:punch something --- not a hard surface, if you do not want to actually hurt your hands.	labels:I encourage you to punch something --- not a hard surface, if you do not want to actually hurt your hands.	episode_done:True
+text:seek help before it’s too late.	labels:I encourage you to seek help before it’s too late.	episode_done:True
+text:think of it like a game of chess, don't think about how many times you lost.	labels:I encourage you to think of it like a game of chess, don't think about how many times you lost.	episode_done:True
+text:try to celebrate the little victories.	labels:I would encourage you to try to celebrate the little victories.	episode_done:True
+text:think about the qualities in this girl you love, and seek them out in other people.	labels:You may want to think about the qualities in this girl you love, and seek them out in other people.	episode_done:True
+text:make sure you are eating because the body needs energy even if you aren't hungry.	labels:It would be a good idea to make sure you are eating because the body needs energy even if you aren't hungry.	episode_done:True
+text:You could also just dump the ashes in a lake or something, as long as you don't get caught no one can do anything.	labels:I encourage you to also just dump the ashes in a lake or something, as long as you don't get caught no one can do anything.	episode_done:True
+text:forget the fact that he “needs” to make it up to you xyz.	labels:It may be important to forget the fact that he “needs” to make it up to you xyz.	episode_done:True
+text:You could also look into ways to get more followers to feel further validated in that sense.	labels:It may be important to also look into ways to get more followers to feel further validated in that sense.	episode_done:True
+text:learn a new talent.	labels:It would be a good idea to learn a new talent.	episode_done:True
+text:rehome your cats if you can't take care of them.	labels:You may want to rehome your cats if you can't take care of them.	episode_done:True
+text:You should make sure everything is bad, before you go.	labels:I would encourage you to make sure everything is bad, before you go.	episode_done:True
+text:try to make new friends, and i'm sure you'll find a new better girl!	labels:It maybe helpful to try to make new friends, and i'm sure you'll find a new better girl!	episode_done:True
+text:talk to me when you turn 30 and get confused because you still feel 20 in your mind.	labels:I encourage you to talk to me when you turn 30 and get confused because you still feel 20 in your mind.	episode_done:True
+text:try accepting that your personality could actually be beneficial for your career as an artist and designer.	labels:An option would be to try accepting that your personality could actually be beneficial for your career as an artist and designer.	episode_done:True
+text:You can take things slow, and just make small conversations with your close friends.	labels:It would be a good idea to take things slow, and just make small conversations with your close friends.	episode_done:True
+text:go to therapy and try to join a club of some sort.	labels:I encourage you to go to therapy and try to join a club of some sort.	episode_done:True
+text:support your sister and try to get everyone into counselling, even if it’s not affordable, in situations like this there are at least a ton of free or affordable options for kids under 18.	labels:It maybe helpful to support your sister and try to get everyone into counselling, even if it’s not affordable, in situations like this there are at least a ton of free or affordable options for kids under 18.	episode_done:True
+text:get a better lawyer.	labels:I would encourage you to get a better lawyer.	episode_done:True
+text:let em find someone else to take care of them when they're old and find someone else to bury their asses when they're  dead.	labels:It maybe helpful to let em find someone else to take care of them when they're old and find someone else to bury their asses when they're  dead.	episode_done:True
+text:talk with your boyfriend a lot and try to describe him how you feel.	labels:I would encourage you to talk with your boyfriend a lot and try to describe him how you feel.	episode_done:True
+text:focus more attention on that even if you only think you're decent at it, then you'll get better and that might give you confidence to try other stuff you're interested in?	labels:You may want to focus more attention on that even if you only think you're decent at it, then you'll get better and that might give you confidence to try other stuff you're interested in?	episode_done:True
+text:find the strength within yourself.	labels:It may be important to find the strength within yourself.	episode_done:True
+text:set a couple hours aside and do completely nothing.	labels:I wonder if you can set a couple hours aside and do completely nothing.	episode_done:True
+text:rehome your cats if you can't take care of them.	labels:I wonder if you can rehome your cats if you can't take care of them.	episode_done:True
+text:fold your damn clothes.	labels:An option would be to fold your damn clothes.	episode_done:True
+text:You should speak to a therapist about this, it could really help you.	labels:Perhaps you can speak to a therapist about this, it could really help you.	episode_done:True
+text:feel free to "test" this by pm'ing me )	labels:It may be important to feel free to "test" this by pm'ing me  )	episode_done:True
+text:have something to look forward to after the work day - a walk, a movie, a hobby to reward yourself.	labels:It would be a good idea to have something to look forward to after the work day - a walk, a movie, a hobby to reward yourself.	episode_done:True
+text:You should probably speak to a careers adviser (if you have one in your school) or speak to people in the CS field you might know, they should give you the advice you need.	labels:It maybe helpful to probably speak to a careers adviser (if you have one in your school) or speak to people in the CS field you might know, they should give you the advice you need.	episode_done:True
+text:concentrate on you and find a path you want to follow.	labels:I would encourage you to concentrate on you and find a path you want to follow.	episode_done:True
+text:check with your landlord and tell them exactly what's happening.	labels:I wonder if you can check with your landlord and tell them exactly what's happening.	episode_done:True
+text:You can reset your outlook on life.	labels:I encourage you to reset your outlook on life.	episode_done:True
+text:try starting some new traditions that you can look forward to over the holidays.	labels:I encourage you to try starting some new traditions that you can look forward to over the holidays.	episode_done:True
+text:You could also try losing yourself in your mind if that makes sense-creating fantasy stories in your head about faraway kingdoms and stuff.	labels:Maybe it is important to also try losing yourself in your mind if that makes sense-creating fantasy stories in your head about faraway kingdoms and stuff.	episode_done:True
+text:pay attention to your blinking eyes, to your beating heart, to everything you see and feel and hear.	labels:Perhaps you can pay attention to your blinking eyes, to your beating heart, to everything you see and feel and hear.	episode_done:True
+text:try to catch yourself thinking like that and at least stop it.	labels:I wonder if you can try to catch yourself thinking like that and at least stop it.	episode_done:True
+text:try and have some fun and remember why you're living, because sometimes school takes that away for me after it gets to a certain level of stress.	labels:Maybe it is important to try and have some fun and remember why you're living, because sometimes school takes that away for me after it gets to a certain level of stress.	episode_done:True
+text:remember your self worth.	labels:You may want to remember your self worth.	episode_done:True
+text:offer people help.	labels:An option would be to offer people help.	episode_done:True
+text:find support groups, therapy, and get help for your drug use, so you can be there for your family and be a better friend and boyfriend.	labels:Maybe it is important to find support groups, therapy, and get help for your drug use, so you can be there for your family and be a better friend and boyfriend.	episode_done:True
+text:keep your eyes open.	labels:It would be a good idea to keep your eyes open.	episode_done:True
+text:give yourself some time and figure out what you should do.	labels:It maybe helpful to give yourself some time and figure out what you should do.	episode_done:True
+text:You need to have new experiences.	labels:I wonder if you can have new experiences.	episode_done:True
+text:try to keep your mind occupied, and if you love life, life will love you back.	labels:An option would be to try to keep your mind occupied, and if you love life, life will love you back.	episode_done:True
+text:gotta start with the things you enjoy and build on them.	labels:It maybe helpful to gotta start with the things you enjoy and build on them.	episode_done:True
+text:You can just admit you were flirting and think she’s cute.	labels:I would encourage you to just admit you were flirting and think she’s cute.	episode_done:True
+text:take advantage of what they were doing by trying to embarrass you.	labels:I wonder if you can take advantage of what they were doing by trying to embarrass you.	episode_done:True
+text:make some soup in advance because you wont eat anything else for about a week.	labels:I wonder if you can make some soup in advance because you wont eat anything else for about a week.	episode_done:True
+text:watch youtube while you wait or even people watch.	labels:It would be a good idea to watch youtube while you wait or even people watch.	episode_done:True
+text:tell them you believe she is going to self-harm.	labels:Perhaps you can tell them you believe she is going to self-harm.	episode_done:True
+text:try and keep practical matters under control, and hang in there friend!	labels:An option would be to try and keep practical matters under control, and hang in there friend!	episode_done:True
+text:I think you should talk to him about that.	labels:I wonder if you can talk to him about that.	episode_done:True
+text:learn to love the new paint color and keep reminding yourself that it’s the same house and it will always be the same house, just some things have changed.	labels:Perhaps you can learn to love the new paint color and keep reminding yourself that it’s the same house and it will always be the same house, just some things have changed.	episode_done:True
+text:You should see about getting him to a doctor or psychiatrist, as they can prescribe medication that might help.	labels:I encourage you to see about getting him to a doctor or psychiatrist, as they can prescribe medication that might help.	episode_done:True
+text:try to focus on the alternative things you can do now.	labels:An option would be to try to focus on the alternative things you can do now.	episode_done:True
+text:try getting a full body massage.	labels:It may be important to try getting a full body massage.	episode_done:True
+text:I think you should move out.	labels:Maybe it is important to move out.	episode_done:True
+text:reach out to your friends.	labels:It would be a good idea to reach out to your friends.	episode_done:True
+text:You need to have new experiences.	labels:I encourage you to have new experiences.	episode_done:True
+text:act as though you were that person.	labels:I wonder if you can act as though you were that person.	episode_done:True
+text:take advantage of what they were doing by trying to embarrass you.	labels:It maybe helpful to take advantage of what they were doing by trying to embarrass you.	episode_done:True
+text:let's make a plan here.	labels:An option would be to let's make a plan here.	episode_done:True
+text:You need to say how you feel to either get back together or find closure.	labels:It may be important to say how you feel to either get back together or find closure.	episode_done:True
+text:buy a vacuum cleaner.	labels:It may be important to buy a vacuum cleaner.	episode_done:True
+text:walk a neighbor’s dog.	labels:It may be important to walk a neighbor’s dog.	episode_done:True
+text:You could go to college or community college.	labels:You may want to go to college or community college.	episode_done:True
+text:try to extend that joy and let them be excited.	labels:I encourage you to try to extend that joy and let them be excited.	episode_done:True
+text:check with your landlord and tell them exactly what's happening.	labels:I would encourage you to check with your landlord and tell them exactly what's happening.	episode_done:True
+text:You need to go into monk mode and find yourself.	labels:I encourage you to go into monk mode and find yourself.	episode_done:True
+text:take tasks and break them down into smaller pieces.	labels:You may want to take tasks and break them down into smaller pieces.	episode_done:True
+text:try looking that up and see if it sounds right.	labels:I would encourage you to try looking that up and see if it sounds right.	episode_done:True
+text:give yourself the proper space and time for healing.	labels:It would be a good idea to give yourself the proper space and time for healing.	episode_done:True
+text:take a deep breath and realize that is the reason the pics are up is for people to 'like' them.	labels:It would be a good idea to take a deep breath and realize that is the reason the pics are up is for people to 'like' them.	episode_done:True

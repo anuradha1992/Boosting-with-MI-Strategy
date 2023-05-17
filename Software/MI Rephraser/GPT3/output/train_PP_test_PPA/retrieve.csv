@@ -1,0 +1,604 @@
+Context,Ground-Truth,Prediction,Labels
+"It 's tough but know she really appreciates your support and loves you dearly obviously .
+
+###",Focusing on these things may also be comforting to you . END,I tell you what I would like to do is ask her if she would ever,['Self-Disclose']
+"If he ’ s actively trying to get in a relationship and he ’ s controlling a part of your life right now as it is , it ’ s probably gon na get worse so your gon na have to let him go .
+
+###","If you get more answers from her which are n't agreeable with you , then it is time to put the hope for this relationship behind you . END","If he remains passive, encouraging and helpful , you can get a handle on some",['Advise without Permission']
+"I would recommend talking to a therapist as well .
+
+###",It may also be helpful to discuss these ideas with a local therapist . END,This is a great time to ask if he is willing to go to a therapist,['Give Information']
+"Perhaps seeing a new therapist and a doctor would be the best course of action .
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END",I encourage you to meet with a therapist and ask them how they might be able,['Advise without Permission']
+"I would suggest seeing a therapist to help sort this out .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,If this is the case I strongly recommend individual therapy to begin working through some of,['Advise without Permission']
+"Try going to therapy if you can afford it .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,I encourage you to meet with a therapist and ask them how they might be able,['Advise without Permission']
+"If you feel like these thoughts keep haunting you , you could always try to get in touch with a doctor or therapist .
+
+###",You can always talk to a prospective therapist about all the questions you have ( Have they worked with others with your issues ? END,"With that being said, it would be helpful to talk to each other about these",['Advise without Permission']
+"I suggest finding someone you trust and just get used to talking about anything the might be bothering you more often , that way you will not need to become an emotional mess the next time some wants to know whats going on .
+
+###","Ideally this part of the competition would not be about you saying he did something wrong , but just expressing how you felt when you heard about itIt may be helpful to discuss these things with a therapist first so you have some coping skills for being able to listen to him without being overly defensive and also expressing your feelings without blaming , both of which would be very natural in this situation . END",Perhaps you two caneach and accommodate each other s needs so that the two of,['Give Information']
+"Just get to be good friends first .
+
+###",Give yourself some credit for being awesome and tell yourself you can build new friendships . END,"Patience is key. END IT With step 5, become a couple Primary Choice","['Give Information', 'Direct']"
+"Sometimes they can evolve into very good friends .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END","If you find that a friend is not reciprocating for you, you can still",['Advise without Permission']
+"I hope that they would be open to the idea and can help you find a good place .
+
+###",I also think it would be valuable for you to start engaging in things outside of the home that make you happy . END,I would imagine that work opportunities would be part of the education process. END 7,"['Give Information', 'Other']"
+"Is there a chance to talk to a counselor at school , or one outside of school you could learn to manage life better .
+
+###",Or perhaps finding a counselor in your local area might be useful . END,Might there be some tubes of multi-agency counseling available that could work with you,['Give Information']
+"And if it helps you should probably see a psychologist , you might feel better
+
+###","You may want to consider counseling , since it is another effective way to treat depression . END",If this is the case I strongly recommend individual counseling to begin working through some of,['Advise without Permission']
+"Find something that alleviates your stress .
+
+###",Take your emotional weariness seriously and reflect on the various ways of stress relief which are available and interest you . END,"Genuine,ay,by and happening (not outside of the context of this",['Give Information']
+"and you will have to see a doctor to get diagnosed and get meds .
+
+###",It is also a good idea to get a medical evaluation from your doctor to rule out any medical causes for your current condition . END,"If any of these symptoms persist, see a doctor immediately  Hilting through that",['Advise without Permission']
+"But definitely helps smooth out your emotions so you do n't randomly become really depressed .
+
+###","Seeking out a therapist to help you work through these negatives feelings and thoughts is much easier , than trying to go it alone . END","When you notice that you are feeling depressed, it will be helpful to figure out",['Advise without Permission']
+"I 'm thinking a therapist might help .
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END",If this is the case I strongly recommend that pre- Communication Amendments be made in,['Advise without Permission']
+"Also try to shake up your daily routine , even little things done differently can be a huge help to some people .
+
+###",I also think it would be valuable for you to start engaging in things outside of the home that make you happy . END,Give yourself some credit for being awesome and tell yourself you can build new friendships.,['Advise without Permission']
+"I hope you 're seeing a therapist .
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END","If this is true, see if he would be willing to visit with you.",['Advise without Permission']
+"You might be able to find an online community where you can interact with others who have similar interests .
+
+###",Perhaps there will be a support group you could also join . END,"In addition to being open to meeting new friends, involve yourself in projects from which",['Advise without Permission']
+"I know you 're getting tired but you got ta take the time to take care of yourself .
+
+###",I would also encourage you to make sure you are taking care of yourself while you support her so you are not becoming too overwhelmed . END,I care about how you feel and I want to reassure you that I care about,['Support']
+"The reason I ask is you said you ’ ve been depressed and taking medication for it .
+
+###","So , do n't be surprised if your primary care doctor offers to put you on an anti-depressant if they diagnose you with depression . END",If this is the case I strongly recommend Advocating For The Trade As A hobby,['Advise without Permission']
+"There ’ s got to be some kind of group out there you can reach to where someone can help specifically with this .
+
+###",Perhaps he or she can assist you in navigating through this . END,Maybe some groups big enough to accommodate all you ppl would really be helping me,['Give Information']
+"Seeing my therapist again has helped me sort some stuff out .
+
+###",Having an open dialogue about your anxiety with your therapist can help you resolve some of that anxiety and built greater trust with your therapist . END,I encourage you to sit down and discuss this with him/her  and,['Advise without Permission']
+"and i want to make the world better for future generations .
+
+###","While starting over and trying out new ways of being may seem like a daunting task , it will only make things easier and give you a sense of hope and purpose for your future . END",Perhaps you would be open to discussing this with your family and request that they join,['Advise with Permission']
+"If you find yourself spiralling , try taking at few deep breathes .
+
+###","If I may offer one more suggestion , breathing exercises are very beneficial . END",Give yourself a break and let yourself enjoy being elsewhere. END vowel 3 These ideas,"['Advise without Permission', 'Give Information']"
+"Something to bond and distract and help her de-stress .
+
+###",Take your emotional weariness seriously and reflect on the various ways of stress relief which are available and interest you . END,I think it would be valuable for you to start engaging in things outside of the,['Advise with Permission']
+"Making a few changes can help or at least be a start .
+
+###",These ideas may help in the meantime prior to having more specific ideas from someone near you . END,I encourage you to consider Making a Extra Clean pavement time by doing something outside of,['Advise without Permission']
+"Talk to your doctor , medication like escitalopram can help for both anxiety and depression .
+
+###","So , do n't be surprised if your primary care doctor offers to put you on an anti-depressant if they diagnose you with depression . END",Your doctor or professional healthcare provider may say that food may Help Fight Depression and Anxiety,['Give Information']
+"Yay for seeking out a therapist !
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,Having a therapist is highly Recommended as it sounds like continuous support may be necessary,['Advise with Permission']
+"I just do n't know what a therapist could * possibly * tell me that would help .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,"With that being said, seeing a therapist is highly recommended as it sounds like continuous",['Advise without Permission']
+"Idk , if indeed something bad happened to you , you should try to go to a doctor , or talk to a friend .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END","I strongly recommend that you talk with a therapist, otherwise you may be struggling with",['Advise without Permission']
+"A good therapist/counselor is the very best help , in my opinion
+
+###",A good therapist can be helpful too ! END,This may be a very important time for you to seek professional support from a therapist,['Advise with Permission']
+"If so , use them to see a therapist .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,If this is the case it would be helpful to talk to each other about what,['Advise without Permission']
+"If you feel the people in your life are n't treating you right you should talk to them about it .
+
+###","One thing you could try is to talk to your partner when she 's not angry about the following   If she 's angry , maybe she can talk with you about what she is angry about rather than calling you names . END","Most people will assume you’re talking about them, and that's not",['Give Information']
+"I know you do n't want to die , but maybe you need a safe break or resources to counseling and this might be where you can get some help .
+
+###","If you ca n't pinpoint what has caused you to feel this way on your own , a counselor can help . END",I would probably appreciate it if you also let me know how you are feeling.,['Support']
+"I think you should try and get some counselling as it seems like you have allot on your mind .
+
+###","Another idea is to chat with a counselor , if you are interested . END",If this is the case I strongly recommend individual therapy to begin working with some of,['Advise with Permission']
+"If nothing else I love to listen , and this could help both of us .
+
+###",One thing you could try is to have a conversation when neither of you is upset so that you learn what makes each of you feel cared for and valued . END,With that in mind it would be helpful to both of you to start interacting with,['Advise without Permission']
+"Well perhaps you have a lot of things to care about , may can help to make your life more simple .
+
+###","Understanding that you can indeed find even the smallest strategies useful for self-care , can help bolster your energy and give you some support as you move through the day . END",Maybe you've got more intangibles that can't be frustrated by results.,['Affirm']
+"Friends are supposed to be there for each other and listen and help out .
+
+###","Additionally , talking to close or compassionate family and friends is always good . END",I appreciate it if you would also allow yourself to be job-interviewed,['Support']
+"Could be worth looking into .
+
+###",These are all things that you want to consider . END,I would also suggest you interview with a professional human Being like yourself and explore where,['Advise without Permission']
+"If you choose to stay with him I hope he decides to change for the better when your child is born , and if he doesn ’ t change maybe try marriage counseling .
+
+###","If you and your husband are willing , I would encourage you to do some therapy or counselling together . END",I encourage you to meet with a qualified marriage counselor and ask them how they might,['Advise without Permission']
+"Did you try going out with some friends like couple dating or something ?
+
+###","I wonder if both you and your boyfriend could have a conversation about what you both want , wish for , and desire from one another right now . END","In addition to being open to meeting new friends, involve yourself in projects from which",['Advise without Permission']
+"Be there for her and if you can get her into counseling , that would be amazing .
+
+###","Another idea is to chat with a counselor , if you are interested . END","If it is possible, see if he would be willing to go to a counselor",['Advise without Permission']
+"But I 'm like you , I do n't want to hurt others just because I 'm not happy .
+
+###",It 's important that you are patient with yourself and tolerant of your discomfort . END,It's okay to be sad and lonely sometimes. ENDING (3): I,"['Affirm', 'Other']"
+"I actually felt much better after talking about it .
+
+###",I think he will appreciate your honesty and maybe this conversation will bring you relief and also time to find something you really will enjoy . END,Let her know that you're sorry and you've had a bad experience with a,['Advise without Permission']
+"You can ignore me if you want .
+
+###","Right now , you can pleasantly ignore her hints . END",I can help you in this regard. END If this is the case I strongly,"['Support', 'Other']"
+"I would talk to your Doctor .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END",I need you to help me personally by talking to me about how things are working,['Advise without Permission']
+"There is many different types of therapy and I bet you could find one that actually does work for you !
+
+###",If this is the case I strongly recommend individual therapy to begin working through some of these issues . END,I think it would be valuable for you to start engaging in physical activities that feel,['Advise without Permission']
+"Seek help and reach out to those you trust .
+
+###","If you have someone you trust , you can ask for their help as well since most likely they see you differently than you see yourself . END",I wonder if it would be possible for you to chat with one of the tear,['Advise with Permission']
+"if it is possible try therapy .
+
+###",You can suggest that she enter counseling or therapy . END,If this is the case I strongly recommend that you start treating thisensteinly causing,['Advise without Permission']
+"Therapists help you to talk through your problems , psychiatrists can diagnose you and give you medications .
+
+###","It would be best to consult with a therapist experienced in this disorder , as they will be able to guide you towards possible solutions such as changing negative thought patterns , light therapy , exercise , nutritional support , and possibly medication . END",With that being said I would highly encourage you to discuss these things with a therapist,['Advise without Permission']
+"Begin apologizing DEEPLY , admit that your behaviour was incredibly shit and hope you will be forgiven one day .
+
+###","However , if it was a single event and he has shown you and continuously shows you that he genuinely loves you and is sorry for his mistake , I would give it a try . END",If you are physically off shore and do not allow an LGBT person to follow you,['Closed Question']
+"Keep going to therapy , it may not seem beneficial or a waste of time early on but if you give it a few tries you could make a great connection with your therapist .
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END",This is a crucial time for you to potentially seek professional advice from a therapist in,['Advise with Permission']
+"It could be depression made more salient with the incoming period but I suggest you talk to someone professional about it if you really want a reliable answer .
+
+###","If you are up for it , perhaps the best place to start is by seeing a physician or a therapist who can help determine how severe the depression is and can suggest methods of addressing the depression that fit your lifestyle , values , and capabilities . END",I think this is a good time to start exploring his responses to you. END,"['Give Information', 'Other']"
+"Start eating healthy and getting regular vigorous exercise Start watching/reading positive stories , and start helping others .
+
+###","Understanding that you can indeed find even the smallest strategies useful for self-care , can help bolster your energy and give you some support as you move through the day . END",I also think it would be valuable for you to start engaging in things outside of,['Advise with Permission']
+"I recommend you talk to a professional counselor .
+
+###","Another idea is to chat with a counselor , if you are interested . END","I wouldn't recommend individual counseling for these cases, but either way it would be",['Advise with Permission']
+"i would truly truly suggest talking to a person you trust and getting some form of therapy .
+
+###","If you can get yourself in counseling with a trusted therapist who will accept you , encourage you , hear you and support you , you can begin to work on what truth worth is . END","It is important that you Hulk up and ask yourself "" What do I have to",['Advise without Permission']
+"I know there are online therapy services out there , so maybe that 's the route I should consider , at least until I become more comfortable with it .
+
+###","If many months pass and you see no progress , then definitely consider a few sessions with a therapist who would be able to guide you to become more open to your feelings . END",CharSteam can be a great option for individual support ionage nor sol ram for,['Give Information']
+"Please try to see a doctor , counsellor or anyone you can talk to .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END","I would strongly recommend that you meet with a therapist and inquirer, if they",['Advise without Permission']
+"I hope you 're surrounded by friends and family to help you get through this .
+
+###","Additionally , talking to close or compassionate family and friends is always good . END","I ...
+
+If you have any questions or needing assistance I would be pleased","['Other', 'Support']"
+"Otherwise , make sure you reach out to others to help you through your grieving process .
+
+###",I would also recommend that you seek support from loved ones . END,"If your life story allows for it, I strongly recommend it be something that impacts",['Advise without Permission']
+"I also like to try to help people .
+
+###",Focusing on these things may also be comforting to you . END,I invite you to make a attempt to involve your kiddo in your church,['Advise without Permission']
+"You seem like you really cherish and enjoy your friendships so maybe you should just push yourself to put on that fake smile and just be there for him .
+
+###",Give yourself some credit for being awesome and tell yourself you can build new friendships . END,"In addition to being attentive to his needs, involve your in his needs - by",['Advise without Permission']
+"Find things to do that bring you joy .
+
+###",I also think it would be valuable for you to start engaging in things outside of the home that make you happy . END,"By aiming to change the things you do that make you happy , you can achieve",['Advise without Permission']
+"But although you may not be sure how things can get better , things indeed can get better .
+
+###","While starting over and trying out new ways of being may seem like a daunting task , it will only make things easier and give you a sense of hope and purpose for your future . END",It is time to take a closer look at what hope there is for you.,['Advise without Permission']
+"If you don ’ t feel comfortable with it , tell your therapist and they might give you another type of medication or try another form of treatment
+
+###","If you are not comfortable discussing this with your therapist , this may be something to take into consideration and worthy of thinking about   why you are not comfortable speaking to the therapist . END","If this is the case I strongly recommend individual support from you, as this could",['Advise without Permission']
+"Maybe convince her to go to couples therapy with you ?
+
+###","If your husband is changing his mind about whether or not he wants to stay in the relationship , I wonder if you both might benefit from seeing a therapist who specializes in couples . END","If it is possible, see if he would be willing to talk with a therapist",['Advise without Permission']
+"Whatever it is , you need to find a way to forgive yourself and move on .
+
+###","If you want to move forward and be with your boyfriend , your job will be to forgive yourself . END",I would also suggest that you email yourself a peace blessing and ask yourself what became,['Advise without Permission']
+"I 'm sure the last thing you want is to hurt someone so please get help before things get really out of hand .
+
+###","Anytime sadness causes thoughts of suicide or self harm , it is important to get help immediately . END","If necessary, seek immediate professional support from a local teacher or a local teacher whose",['Advise without Permission']
+"maybe some anxiety medication would help you ...
+
+###","You may want to consider counseling , since it is another effective way to treat depression . END","Instead of dwelling on this anxiety, address this one thing (any anxiety Railway Panic",['Direct']
+"It canbeereally soothing to hear nice things from people you care .
+
+###",Focusing on these things may also be comforting to you . END,"I also like hearing things like, ""That was fantastic  and I appreciate",['Affirm']
+"I 'm trying to overcome some problems , I 'm in therapy .
+
+###","I think that exploring these issues further with a therapist could help you resolve whatever is causing you the stress , trouble sleeping , and frightening dreams . END",I want to be interviewed by a therapist. END END END END END END END,"['Self-Disclose', 'Other']"
+"Please please please , if you think you have some sort of depression get therapy .
+
+###","You may want to consider counseling , since it is another effective way to treat depression . END",I would also like to see some good old time medicine named Comfieug,['Self-Disclose']
+"Be patient and kind to yourself .
+
+###",It 's important that you are patient with yourself and tolerant of your discomfort . END,It can be helpful to remember that it is okay to be nervous and terrible at,['Advise with Permission']
+"Verbalizing your thoughts/feelings can help with the healing process - whether it be journaling or venting to someone .
+
+###",Having an open dialogue about your anxiety with your therapist can help you resolve some of that anxiety and built greater trust with your therapist . END,This might be a good time to include feelings in your treatment if you're still,['Advise with Permission']
+"First of all , I would suggest you both look into your relationship and decide wether to stay together or break up .
+
+###",I would suggest possibly talking about the type of relationship that both of you want to create . END,A second option is to either talk to a therapist about these things or talk to,['Advise with Permission']
+"Lots of times it is n't true but it always helps to talk with someone , tell them how you feel and work on a plan to get in touch with your emotions .
+
+###",Sometimes just talking about these feelings can be helpful so that you can both have open discussions about whether the amount or type of communication is too much or in a style that is not working for both of you . END,"If this helps, it may be worth considering being open to hearing new ideas from",['Advise without Permission']
+"Things suck now , and they might for a while , but if you work at it things will get better .
+
+###","While starting over and trying out new ways of being may seem like a daunting task , it will only make things easier and give you a sense of hope and purpose for your future . END","One thing I think you should do is to figure out how you feel, and",['Advise without Permission']
+"Friends and family are always there for you .
+
+###","Additionally , talking to close or compassionate family and friends is always good . END",I am grateful for any opportunities to meet people from a wide range of backgrounds and,['Self-Disclose']
+"Talk to your doctor about that .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END",It can be helpful to talk to a counselor about this and to his or her,['Advise with Permission']
+"Also just because you date a girl does n't mean marriage is the future , you can be in a really great relationship without getting married , if you go into every relationship thinking marriage is the end of it you might end up being forced into things you are n't comfortable .
+
+###",Maybe it is worth spending some more time together in the same place if that is possible before deciding on marriage or that you are not truly in love . END,"If you are happy with what you are learning and succeed as a friend, then",['Advise without Permission']
+"They may try to find a new approach or you can go find another therapist .
+
+###","If it 's a pattern , that 's different and you may want the input of a therapist . END",If you are interested I would recommend individual therapy to begin working through some of these,['Advise with Permission']
+"Or they could be willing to help and you 'll get some guidance .
+
+###",Perhaps he or she can assist you in navigating through this . END,I would encourage you to meet with an asian therapist and ask them how they,['Advise without Permission']
+"I would consult with a psychiatrist or therapist to see if you need a change of meds .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,I encourage you to meet with a therapist and ask them if there is anything they,['Advise without Permission']
+"At least most of your family is supportive !
+
+###","Additionally , talking to close or compassionate family and friends is always good . END","Give some acknowledgements for being a valuable member of the family by saying ""Thank",['Direct']
+"Take the relationship as a step to improve your next relationship
+
+###",Finding an answer together would be a good way of making your relationship stronger . END,Give yourself a pat on the head and tell yourself you can do better. END,"['Direct', 'Other']"
+"Someone needs to talk to his doctor and tell them this .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END",It could be helpful for you to meet with a therapist and ask questions about yourself,['Advise with Permission']
+"You will find pleasure in the simplest of things and for that your life will be richer .
+
+###",I think he will appreciate your honesty and maybe this conversation will bring you relief and also time to find something you really will enjoy . END,You may find it hard to bear the idea of going for a walk when it,['Confront']
+"Please talk to someone about it , it 'll help you more than you realise
+
+###",I think he will appreciate your honesty and maybe this conversation will bring you relief and also time to find something you really will enjoy . END,If this is the case I strongly recommend that you either come to the surface or,['Advise without Permission']
+"Therapy may be the best option .
+
+###",A good therapist can be helpful too ! END,"It is always ok to ask for help from another person. ENDO
+ END","['Affirm', 'Other']"
+"Find friends to talk to about how you feel .
+
+###",I would also see if he was comfortable with you disclosing this to one or a few of your close friends ( with him considering doing the same ) so that you both have support that includes each other and also includes others because there may be days when you both have a negatively emotional day at the same time and would benefit from talking with someone else . END,Maybe gatherings where you can talk to friends can be beneficial to your healing. END,"['Advise with Permission', 'Other']"
+"I would suggest seeing your doctor as soon as possible .
+
+###","These are just some thoughts , but I think talking to your primary care physician would be a great place to start . END",I encourage you to meet with a local Doc and ask them how they might be,['Advise without Permission']
+"Online 's a good place to make friends , as well .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END","If brush-cutting is not an option, he should be offered groups of which",['Advise without Permission']
+"That way , I 'm working myself back into feeling cared for without forcing myself upon people .
+
+###","Gradually by nurturing and comforting yourself , living at a pace which is uniquely comfortable to what and how much you can handle , you 'll regain your trust in both yourself and relating to others . END","When I am given this command, I immediately set about processing things and then immediately",['Self-Disclose']
+"An activity or hobby where you can socialize and meet new people would definitly boost your morale .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END","If you find that your spirits rise when you meet new people, that would definitely",['Advise without Permission']
+"So rather than hate every moment of it maybe I should try and enjoy myself maybe  gasp  make new friends ?
+
+###",Give yourself some credit for being awesome and tell yourself you can build new friendships . END,If this is the case then I think it would be valuable for me to start,['Give Information']
+"i really think seeing a therapist could help you a lot , i used to be like you and have these high expectations and beat down on myself for feeling bad in the first place and therapy helped me a lot
+
+###","Seeking out a therapist to help you work through these negatives feelings and thoughts is much easier , than trying to go it alone . END","If it is possible, see if he or she could help you. ENDOR","['Advise without Permission', 'Other']"
+"If your pain is psychosomatic , knowing so may help to ease the onset of your symptoms .
+
+###","You may want to consider counseling , since it is another effective way to treat depression . END",A difficult or difficult to manage problem may prompt you to seek medical help. END,"['Give Information', 'Other']"
+"You seem to be down on yourself , you need to give yourself a break as well .
+
+###","Additionally , anything you can do to give yourself a little break from the feeling of pointlessness and any ruminating thoughts you may be having may be of help . END",This is no time for you to be solely responsible for your own happiness. END,"['Support', 'Other']"
+"What I can certainly do is help you figure out some little things you could do in your daily life that might help .
+
+###","Understanding that you can indeed find even the smallest strategies useful for self-care , can help bolster your energy and give you some support as you move through the day . END",Maybe you can help a friend out by helping another friend out? END 2018 MAKE,"['Advise without Permission', 'Other']"
+"Reach out to a counselor or therapist if these feelings continue to bother you .
+
+###",It would be helpful to explore the feelings you 're having with your therapist . END,"If this is the case I strongly recommend particular wisdom from a therapist such as """,['Advise without Permission']
+"Just getting them to start and know that they can trust you is the best .
+
+###","Basically , you will be teaching yourself how to slowly trust yourself . END",You can remedy this by being both trustworthy and honest with yourself. ENDURING,"['Emphasize Autonomy', 'Other']"
+"At least consider some of the other options , talk with a career counselor .
+
+###","Another option would be to speak with us about your counselor , if you have one . END",At this point it would be helpful to start working with a therapist who would be,['Advise with Permission']
+"Please seek out a therapist to talk to .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,I encourage you to chat to a therapist about these issues and find out what works,['Advise without Permission']
+"Talk to a therapist .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,It may be helpful to envision a therapist standing in front of you. END,"['Advise with Permission', 'Other']"
+"I also recommend looking into a counselor if you 're able to .
+
+###",It may also be helpful to reach out to a counselor to rule out if there may be other things going on . END,Author also points out that being open to meeting with a counselor might be a good,['Advise with Permission']
+"They 're generally on life and how to let go of things bothering you but I 'm sure that it could help at least a little .
+
+###","Additionally , anything you can do to give yourself a little break from the feeling of pointlessness and any ruminating thoughts you may be having may be of help . END","Surrounding yourself with people who remind you that you are a great ""th",['Advise without Permission']
+"I have to ask how do you deal with it ?
+
+###",and `` Can you tell me what methods you use to treat these issues ? `` END,Aid is a great way to begin learning about this giant discomfort he's experiencing.,['Give Information']
+"That might give you some immediate helpful support while you wait for a proper therapist  ) Pm me if needed  )
+
+###",Maybe this is a good thing to discuss with your specific therapist at the beginning of your next session -- - maybe they can help you find some strategies or tools to make it easier ? END,It is important that you are alone so that you not automatically become a shoulder to,['Advise without Permission']
+"Maybe you could consider talking this all through with a professional who might be able to help you feel better about yourself .
+
+###","If you can get yourself in counseling with a trusted therapist who will accept you , encourage you , hear you and support you , you can begin to work on what truth worth is . END",I would always highly recommend getting professional assistance from a trained qualified therapist in order to,['Advise without Permission']
+"If you feel that you are competent and mentally stable take care of yourself , and start looking into changing therapists if possible .
+
+###","If not , then you may want to consider seeing a therapist on your own in order to better learn where your insecurities come from . END",If you meet varying degrees of cognitive and physical risks and still feel like you are,['Give Information']
+"Sometimes it ’ s important to focus more on improving yourself than worrying about others as hard as that sounds .
+
+###",One way to work on not always thinking so negatively about yourself is to surround yourself with people who are more positive toward you . END,She may want to specifically talk to children about being a good person and telling children,['Advise without Permission']
+"SOme of my best friends have been netfriends and I do find them easier to maintain and it can be great checking communities of things you 're into and finding people with similar interests .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END",This is a good time to meet new friends and if you are interested in girls,['Give Information']
+"I can guarantee you will find new , better friends !
+
+###",Give yourself some credit for being awesome and tell yourself you can build new friendships . END,Surrounding your with people who are pusher- than-he-arily,['Advise without Permission']
+"I see how it may help at least as a distraction until the anxiety passes .
+
+###","Additionally , anything you can do to give yourself a little break from the feeling of pointlessness and any ruminating thoughts you may be having may be of help . END","If you notice any itching, pass on this feature and deal with the itching as",['Advise without Permission']
+"I think if I had somebody in my life who could be straight forward and be understanding , and start the conversation it would be a lot of help .
+
+###","Best way forward as almost always in a relationship , is to have a gentle conversation to open up the tension between the two of you . END","If she responds with a ""I don't have any prefer… Jeremiah?"" it","['Closed Question', 'Other']"
+"If she won ’ t go to therapy , then maybe you could write her a letter kind of like this post and explain to her how you feel .
+
+###","If you feel like you connect , you can schedule a first session where you will tell them more about yourself and why you are seeking therapy . END",I might be able to provide a proposed course of treatment for her and/or,['Give Information']
+"If you 're not in therapy , you 'd benefit from some family counselling one , even if it 's just a meeting to see the best approach to take with regards to specific issues .
+
+###",Perhaps talking with a therapist who specializes in couples would be helpful if talking about this between you is confusing or if you do not both feel heard by the other person . END,It can be helpful to discuss these issues with a certified therapist who would be able,['Advise with Permission']
+"You should probably try and get professional help as well if you can .
+
+###",Finding additional support from a trained professional whom you feel comfortable with could be the best way to get the help that you need . END,If this is the case I strongly recommend individual support from you so that he or,['Advise without Permission']
+"Just go and you will feel better , otherwise they forget about you and stop reaching out .
+
+###",It 's time to put your past mistakes away on the shelf knowing that you 've learned from them and are a better person now . END,"Consider reaching out again, even if it's just to offer a hand. END","['Advise without Permission', 'Other']"
+"You could try to look for an online community about something you like and make friends online instead .
+
+###",Making new friends online through social media can sometimes be a start in breaking down the isolation you feel . END,If this is the case I strongly recommend solid verbal support from you to begin navigating,['Advise without Permission']
+"To find out exactly what ’ s going on , your family member would likely have to see a doctor and a therapist to address the issues .
+
+###",It would be helpful to explore the feelings you 're having with your therapist . END,I encourage you to meet with a therapist and ask them how they might be able,['Advise without Permission']
+"If that is true , it may help you better manage the stress -- working hard for your own goals can typically feel better than working hard for someone else 's .
+
+###","Knowing your personal limits and when to pull back and take a break will give you a chance to recharge your mental and physical energy , thus helping you face the demands of your job . END",Perhaps you need further support from a therapist to understand why these behaviors may be disabling,['Advise with Permission']
+"That 's also why it 's really important to reach out to other people in moments like this .
+
+###",I would also see if he was comfortable with you disclosing this to one or a few of your close friends ( with him considering doing the same ) so that you both have support that includes each other and also includes others because there may be days when you both have a negatively emotional day at the same time and would benefit from talking with someone else . END,"Maybe if you follow this outline, it will feel more personal for you and you",['Advise with Permission']
+"Make sure you comfort her and tell her it is not her fault , atleast if it is NOT her fault .
+
+###","You can reassure her that you like her ( if that 's true ) , but you do n't have to pity her . END","If she says she is fine, then let her go. END If she says","['Direct', 'Direct']"
+"Consider trying another therapist if your current one isn ’ t working for you .
+
+###","If you are not comfortable discussing this with your therapist , this may be something to take into consideration and worthy of thinking about   why you are not comfortable speaking to the therapist . END",If a treatment series begins with a professional support Kristin can guide you through these,['Advise without Permission']
+"Maybe doing things by yourself will give you a chance to deal with the emotions you 're experiencing .
+
+###","Additionally , anything you can do to give yourself a little break from the feeling of pointlessness and any ruminating thoughts you may be having may be of help . END","If you are able to sit down and do this, I highly recommend it.",['Advise without Permission']
+"Make amazing connections with the friends you do have .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END","The thing you should probably be doing is making some friends, whatever that looks like",['Advise without Permission']
+"You might want to see therapy .
+
+###",You can suggest that she enter counseling or therapy . END,I myself strongly suggest individual therapy to begin working through some of these issues. END,"['Advise without Permission', 'Other']"
+"It took a friend of mine searching for a therapist and TELLING ME to contact this therapist to get me going at it again .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,"In addition, seeing a therapist is highly recommended as it sounds like continuous effort (",['Advise with Permission']
+"Once the initial anxiety of bringing it up is over , I think you 'll find it really helpful to have someone supportive to talk to .
+
+###",It may also be a matter of conversation to discuss what makes you happy together and use those positive moments to help move through more difficult ones . END,It can be helpful to discuss this initial anxiety with a therapist who may be able,['Advise with Permission']
+"I mean you have sooooo many people that love you and want what 's best for you , why not give yourself a chance ?
+
+###",Then you 'll have clear space to find someone who is as interested in you as you are in them ! END,Maybe you can answering questions like this. ENDIRING ON A Well Maintain,"['Give Information', 'Advise without Permission']"
+"They can offer help and resources that might be useful .
+
+###",Learning what is at the root of it can shed some light on what the problem is and can provide some relief in itself . END,It can be helpful to remember that most informal support programs are ineffective and often counter,['Advise with Permission']
+"Go for the therapy , the medication , whatever it is you ’ re helping your self with , and get in a better place first before you think about relationships .
+
+###","Whether you decide to work through these concerns on your own or in professional therapy , just know that your panic attacks must be managed prior to addressing your trauma . END","I need you to either explore some new emotional responses and tolerance for social stresses,",['Advise with Permission']
+"Family , friends you can trust , things that make you happy or at peace .
+
+###","Additionally , talking to close or compassionate family and friends is always good . END","With these things in mind, you can begin considering how you may be able to",['Advise without Permission']
+"You can reconnect with other friends too .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END","If possible, chat with other buddy's who also happen to be men. END","['Advise without Permission', 'Other']"
+"Please see a therapist , I promise there are solutions .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,It can be helpful for you to discuss this with a therapist. END } END,"['Advise with Permission', 'Other']"
+"You could meet somebody tomorrow and feel an even greater love !
+
+###",Then you 'll have clear space to find someone who is as interested in you as you are in them ! END,"Next, find a reason to feel love for the person you're meeting. END","['Advise without Permission', 'Other']"
+"You should talk to your doctor about it .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END",I encourage you to talk to your physicians and ask them how they might be able,['Advise without Permission']
+"I think that maybe some counselling would be helpful .
+
+###",Or perhaps finding a counselor in your local area might be useful . END,This is the time when individual counselling may be helpful. END  END I strongly,"['Give Information', 'Other']"
+"It was also easier for the therapist to work out what the focus of our subsequent sessions should/would be .
+
+###",Maybe this is a good thing to discuss with your specific therapist at the beginning of your next session -- - maybe they can help you find some strategies or tools to make it easier ? END,This is a critical moment for you to embrace and Cahab to also offer his,['Give Information']
+"In short , get help for your anxiety to prevent depression .
+
+###","You may want to consider counseling , since it is another effective way to treat depression . END",If this is the case I strongly recommend individual therapy to begin working on these issues,['Advise with Permission']
+"I know you 've said you 've tried reaching out to those people but go see a counselor in person , it really helps .
+
+###","Another idea is to chat with a counselor , if you are interested . END","If it does, I think you will really appreciate how mindful you are now and",['Advise with Permission']
+"If not then start talking with them about it .
+
+###",If they consent then you can have the opportunity to discuss your concerns with them . END,"Instead of running away or avoiding engaging in anything that will make you "" unhappy "",",['Advise without Permission']
+"You will need to work with a therapist while taking them to address you issues and make changes in your life , coping mechanisms , attitudes , outlooks , etc .
+
+###",A Life Coach or professional therapist could help to guide you through these emotions and refer you to additional professional help if needed . END,If this is the case I strongly recommend individual therapy to begin working with some of,['Advise with Permission']
+"You need to see a doctor about this as it could be a medical condition he or she can help with .
+
+###",It is also a good idea to get a medical evaluation from your doctor to rule out any medical causes for your current condition . END,One or more of the potential medical conditions you mention could involve additional health care needs,['Give Information']
+"Im glad you ’ re doing what makes you comfortable !
+
+###",Focusing on these things may also be comforting to you . END,"If you notice that your symptoms don't improve after24 hours, â–",['Other']
+"I do give great advice and I know people appreciate it .
+
+###",Surrounding yourself with people who remind you that you are a good person is a great idea . END,I also think it would be valuable and valuable for me to get some coaching from,['Self-Disclose']
+"They might be able to help you through some of it
+
+###",Perhaps he or she can assist you in navigating through this . END,I also think it would be helpful to find some support from loved ones. END,"['Advise with Permission', 'Other']"
+"I promise there 's a good person out there who will love how much you respect yourself and love you the right way .
+
+###",Surrounding yourself with people who remind you that you are a good person is a great idea . END,"If you notice any discomfort when you move your foot, such as tingling",['Advise without Permission']
+"It might be time to see your doctor about changing the meds .
+
+###","page=2After reviewing these symptoms , if you believe you may have bipolar disorder , then you may want to see your primary care provider or a counselor . END","With that being said, it may be time to see a doctor. END","['Advise without Permission', 'Other']"
+"It seems like you 're quite compatible and with some time I think you 'll be able to meet in the middle about this issue , especially if you work on building solid trust and open communication in the relationship .
+
+###","Best way forward as almost always in a relationship , is to have a gentle conversation to open up the tension between the two of you . END","Instead of dating and wanting to date, try Tavern on the 19th to see",['Advise without Permission']
+"In all honesty it seems like something to go to a therapist about .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,A pre- =================yzVII. Review ix. Living together as a family,"['Give Information', 'Other', 'Other']"
+"But talk to a school counselor or a therapist if you have n't already .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,It can be helpful to think about why you aren't contacting a counselor right now,['Advise with Permission']
+"From my personal experience , I recommend some religious counseling ; its helped me feel better about myself and its slowly helping me regrow .
+
+###","If you can get yourself in counseling with a trusted therapist who will accept you , encourage you , hear you and support you , you can begin to work on what truth worth is . END",When this is the case I strongly recommend individual counseling to begin exploring some of these,['Advise with Permission']
+"Please see a medical profession and ask if it ’ s possible you are suffering from a form or postpartum disorder .
+
+###","If your stretch marks are still bothering you , talk with a pharmacist or your primary care physician . END",Mention this to the doctor and ask if he or she might be able to,['Direct']
+"You could even try talking to the parent of one of your friends if you feel comfortable .
+
+###","Depending on your relationship with your parents , inviting them to have a conversation might be a good first step . END",If this is the case I strongly recommend that you either meet with one of the,['Advise without Permission']
+"And talk to people , you 'll make new friends and also find someone who 'll love you .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END",I also think it would be valuable for you to start becoming friendly with people you,['Advise with Permission']
+"Offer to help her found a therapist and even to go with her to the first appointment .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,If he is comfortable with going to the first appointment and would be willing to go,['Give Information']
+"Whatever you did I 'm sure you 're still a good person .
+
+###",Surrounding yourself with people who remind you that you are a good person is a great idea . END,Any job where you can help other people is fine by meEST 8 END Her,['Support']
+"And please see therapy , you desperately need it .
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END",If this is the case I strongly recommend individual therapy to begin working through some of,['Advise without Permission']
+"Try to find a therapist or a counselor or a teacher that you like , or of course talk to family if you feel okay talking to any of them .
+
+###","You may want to include a therapist in these conversations if you get stuck , but start with a parent-child conversation . END",I would highly encourage you to consider seeking care from a therapist. ENDJR END,"['Advise without Permission', 'Other']"
+"You might regret not being able to help her out as much as you wanted yo but reach out and keep that relationship going .
+
+###","It is important to support her decisions , even if you don ’ t agree with them , because she may have very little decision making in her relationship . END",Maybe she is willing to meet with you and tell you how she is feeling.,['Give Information']
+"They have stood by me and supported me throughout my life and I love them more than life itself .
+
+###","Additionally , talking to close or compassionate family and friends is always good . END",I love them and feel there is no reason to be angry with them. END,"['Self-Disclose', 'Other']"
+"It 'll help you feel more in control and help prevent your anxiety from getting worse .
+
+###",Having an open dialogue about your anxiety with your therapist can help you resolve some of that anxiety and built greater trust with your therapist . END,I also think it would be valuable for you to start working on your post-,['Advise with Permission']
+"Focus on yourself and doing the things that make you happy , and that pain will be brief .
+
+###","You can reassure her that you like her ( if that 's true ) , but you do n't have to pity her . END","Would you be willing to give some of your time to being happy  ?""",['Closed Question']
+"You may want to seek help from a doctor at some point .
+
+###","If so , I would recommend that you schedule an appointment with a gynecologist to rule out any type of medical issues that might be causing these problems . END",If this is the case I strongly recommend that you discuss these issues with a local,['Advise without Permission']
+"I would talk to your therapist about it regardless though .
+
+###",You can always talk to a prospective therapist about all the questions you have ( Have they worked with others with your issues ? END,"Next, might beCharting your own way through this with a loving partner.",['Advise without Permission']
+"Please also talk to a therapist .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,A Daily Intervention is highly recommended as it can be very effective for some individuals to,['Advise with Permission']
+"Tell her she needs to see a therapist
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,"If it is possible, see if he would be willing to take one of those",['Advise without Permission']
+"A therapist may help you figure out those things for sure if you ca n't figure it out yourself .
+
+###",It would probably be very helpful to talk with a therapist about the specifics of this so that you can see what else is happening for you . END,"With that being said, seeing a professional is highly recommended as this is when it",['Advise without Permission']
+"It all seems to help , maybe some of those things will help you as well .
+
+###",Focusing on these things may also be comforting to you . END,If this is the case I strongly recommend that you either dispassionately evaluateare,['Advise without Permission']
+"You sorta feel grateful for your situation while also hoping for a better future and having control over this future .
+
+###","While starting over and trying out new ways of being may seem like a daunting task , it will only make things easier and give you a sense of hope and purpose for your future . END",I encourage you to sit down( soon ) and think about things from a gr,['Advise without Permission']
+"To process your feelings around this , and to help overcome your issues in a relationship .
+
+###",It may be helpful to have this emotionally impactful conversation in the context of couples therapy . END,I also encourage you to engage in social resources (such as hobby parades or,['Advise without Permission']
+"You should show this to your mother , and maybe request therapy .
+
+###","If you feel like you connect , you can schedule a first session where you will tell them more about yourself and why you are seeking therapy . END",I encourage you to meet with a therapist and ask them how they might be able,['Advise without Permission']
+"I think you could really benefit from some therapy !
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END",I would encourage you to meet with a therapist and ask them how they might be,['Advise without Permission']
+"You need to try and find and better therapist who you can trust .
+
+###","With that being said , seeing a therapist is highly recommended as it sounds like continuous support may be necessary for healing to take place . END","If you encounter any otheritions that call for taking care of a stranger, either",['Advise without Permission']
+"Going and talking to a therapist and getting a professionals opinion is probably your best bet .
+
+###",I encourage you to meet with a therapist and ask them how they might be able to help you . END,I encourage you to meet with a therapist and ask them how they might be able,['Advise without Permission']
+"If you have already been diagnosed , and it 's getting worse , then discussing your options with your psychiatrist would be best .
+
+###","page=2After reviewing these symptoms , if you believe you may have bipolar disorder , then you may want to see your primary care provider or a counselor . END",Therefore you may want to chat with one of your healthcare providers and ask them how,['Advise without Permission']
+"find ways you can better your life .
+
+###",I also think it would be valuable for you to start engaging in things outside of the home that make you happy . END,"I encourage you to adopt a ""give and take"" attitude and involve yourself in",['Advise without Permission']
+"But even if you are depressed , discussing your thoughts and emotions in a productive and open minded way is n't being a burden - it 's trusting your partner and being strong enough to ask for support .
+
+###","You can reassure her that you like her ( if that 's true ) , but you do n't have to pity her . END","I encourage you to meet with a therapist, ask them how they might be able",['Advise without Permission']
+"I think something you could do is mindfulness .
+
+###","Lastly , you may find meditation or mindfulness work to be of great benefit . END",I also think it would be valuable for you to start focusing on what is true,['Advise without Permission']
+"I totally understand the fear of being vulnerable in that way , but if you can find someone you trust , being honest could be incredibly relieving .
+
+###",I think he will appreciate your honesty and maybe this conversation will bring you relief and also time to find something you really will enjoy . END,I encourage you to take a few months off from multiple yrs of trouble and,['Advise without Permission']
+"Now when I send a message to someone where I want a response I delete the sent message and it sometimes helps me forget I sent one that way I 'm not constantly looking to see if they replied .
+
+###","if they say no , then a simple request to respond to your messages . END",Please let me know how this works for you if you're having trouble. END,"['Support', 'Other']"
+"To have a way to manage emotions , is a great thing to have , and crying is hard work too in a way !
+
+###",Take your emotional weariness seriously and reflect on the various ways of stress relief which are available and interest you . END,I think it would be valuable for you to start managing your emotions and remaining inside,['Advise without Permission']
+"I am so proud of you for being able to speak up about it and taking another step towards healing .
+
+###",Finding a support group or a group of people who remind you on a daily basis that you are a decent person is always a good idea . END,I am excited by the ideas you are sharing in this digest today and would,['Affirm']
+"It is very likely that you will meet more new and interesting people with whom you will become friends .
+
+###","In addition to being open to meeting new friends , involve yourself in projects from which you 'll feel satisfied by your own results . END",It is very important that you are open to meeting new friends and able to meet,['Advise without Permission']
+"Seeing a psychologist can be great because they can give you impartial views on the situation and help you cope with your thoughts .
+
+###","If you can , working with a therapist who is competent in treating depression may be a huge benefit to you and help you to regain a sense of meaning , motivation , and connection . END","With that being said, seeing a therapist is highly recommended as it sounds like continuous",['Advise without Permission']
+"I know it 's hard , but try to keep living , you might just find something enjoyable in life .
+
+###","I know it may sound pointless in the moment , and you may feel a great deal of inertia in doing so , but you may find that if you force yourself to do something small that is pleasurable , like taking a walk for example , there 's a good chance you will be glad that you did so after the fact . END",WithoutBelieving it is impossible to experience a life of meaning and meaning should really,['Advise without Permission']
+"I have friends at my work and honestly it really helps me a lot .
+
+###","Additionally , talking to close or compassionate family and friends is always good . END",This could be something I could use as a jumping point for me to meet new,['Self-Disclose']
+"I could suggest some things that might help .
+
+###",These ideas may help in the meantime prior to having more specific ideas from someone near you . END,I also think it would be valuable for you to start engaging in things outside of,['Advise with Permission']
+"In order to love yourself , you need to find peace and be content with what you have .
+
+###","Gradually by nurturing and comforting yourself , living at a pace which is uniquely comfortable to what and how much you can handle , you 'll regain your trust in both yourself and relating to others . END","If you notice that you are getting less satisfied from your masturbating  OK,",['Advise without Permission']
+"You need to talk to a professional counselor .
+
+###",You need to talk with a professional counselor to explore how to better connect with your spouse . END,"If you find a counselor to be Unable tohelp you, then seeing a counselor",['Advise without Permission']
+"You should seek professional help !
+
+###",Getting evaluated by a professional would be a good step to take next . END,"If these actions don’t prove successful, may be able to seek professional",['Advise without Permission']
+"I think if there 's anyone you should see , it 's a therapist .
+
+###",It would be helpful to explore the feelings you 're having with your therapist . END,"With that being said, seeing a therapist is highly recommended as it sounds like continuous",['Advise without Permission']
+"If you have n't already , please talk to your doc or therapist .... if for nothing , just to express your thoughts and feelings in a safe environment .
+
+###","If you feel you are comfortable and able to speak to your therapist , that would be my first suggestion , is to tell he or she how you are feeling . END",ENDORSING A POLICY FOR INDIVIDUAL HEARING BEFORE,['Give Information']
+"Or even call a doctors office and see if they do that .
+
+###","I need you to either talk to me about what 's happening , or please go see a doctor . END",Dr. Bell tells you not to hesitate and to not be afraid to ask for,['Give Information']
+"Give him a call if you 're comfortable doing so and explain the situation as best as you can .
+
+###",If they consent then you can have the opportunity to discuss your concerns with them . END,I think it would be valuable for you to start waiting patiently for an invitation from,['Advise without Permission']
+"Have you considered going to the school counselor to talk ?
+
+###","Last , if you are n't ready to speak with your parents about wanting counseling , think about speaking to your school guidance counselor . END",I have appreciate it if you would go to the counselor and ask if he or,['Advise without Permission']

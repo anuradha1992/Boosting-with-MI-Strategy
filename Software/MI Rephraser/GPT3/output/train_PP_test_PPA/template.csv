@@ -1,0 +1,630 @@
+Context,Ground-Truth,Prediction,Labels
+"hope you get some sleep tonight .
+
+###",It may be important to hope you get some sleep tonight . END,I hope you get some sleep tonight . END END I wonder if you can hope,"['Support', 'Support']"
+"do what makes you happy and get the divorce .
+
+###",I encourage you to do what makes you happy and get the divorce . END,I encourage you to do what makes you happy and get the divorce . END END,"['Emphasize Autonomy', 'Other']"
+"keep fighting , i wish u the best .
+
+###","Maybe it is important to keep fighting , i wish u the best . END","An option would be to keep fighting , i wish u the best . END END","['Emphasize Autonomy', 'Other']"
+"try googling `` mental health resources in `` and see if you can find something that would allow you to talk through these issues .
+
+###",I encourage you to try googling `` mental health resources in `` and see if you can find something that would allow you to talk through these issues . END,An option would be to try googling `` mental health resources in `` and,['Advise without Permission']
+"tell him about it slowly , ease into it if that feels like the best approach for you .
+
+###","Maybe it is important to tell him about it slowly , ease into it if that feels like the best approach for you . END","You may want to tell him about it slowly , ease into it if that feels",['Advise without Permission']
+"cut out some toxic family members , including both of our dads and their wives .
+
+###","I wonder if you can cut out some toxic family members , including both of our dads and their wives . END","It would be a good idea to cut out some toxic family members , including both",['Advise without Permission']
+"make sure they know that both their mom and their dad loves them , too .
+
+###","It would be a good idea to make sure they know that both their mom and their dad loves them , too . END",I wonder if you can make sure they know that both their mom and their dad,['Advise with Permission']
+"try go to sleep at a decent time and keep to a sleeping pattern , if you struggle to sleep at night put your phone in another room and read a book that you might enjoy for an hour before you shut your eyes .
+
+###","It may be important to try go to sleep at a decent time and keep to a sleeping pattern , if you struggle to sleep at night put your phone in another room and read a book that you might enjoy for an hour before you shut your eyes . END",I would encourage you to try go to sleep at a decent time and keep to,['Advise without Permission']
+"talk to someone .
+
+###",I wonder if you can talk to someone . END,It maybe helpful to talk to someone . END IT I wonder if you can talk,"['Advise with Permission', 'Direct']"
+"You can always speed up this process by trying new things .
+
+###",I wonder if you can always speed up this process by trying new things . END,It would be a good idea to always speed up this process by trying new things,['Advise without Permission']
+"work on a part of a school assignment .
+
+###",An option would be to work on a part of a school assignment . END,It may be important to work on a part of a school assignment . END END,"['Advise with Permission', 'Other']"
+"talk to your doctor get your meds adjusted .
+
+###",I encourage you to talk to your doctor get your meds adjusted . END,I would encourage you to talk to your doctor get your meds adjusted . END,"['Advise without Permission', 'Other']"
+"You should see a therapist
+
+###",It may be important to see a therapist END,"I would encourage you to see a therapist. Link Posted by
+
+It would","['Advise without Permission', 'Other']"
+"go get help .
+
+###",You may want to go get help . END,Maybe it is important to get help . END I wonder if you can get help,"['Advise with Permission', 'Support']"
+"keep on working !
+
+###",You may want to keep on working ! END,I would encourage you to keep on working ! END Gravatar I encourage you to,"['Advise without Permission', 'Advise without Permission']"
+"You need to do something you have n't experienced before .
+
+###",Maybe it is important to do something you have n't experienced before . END,I wonder if you can do something you have n't experienced before . END END,"['Advise with Permission', 'Other']"
+"call people who can help him .
+
+###",Maybe it is important to call people who can help him . END,I wonder if he can call people who can help him . END I encourage him,"['Advise with Permission', 'Advise without Permission']"
+"You need to leave
+
+###",I encourage you to leave END,"I encourage you to leave =================
+
+ I encourage you to leave ================= I encourage you",['Support']
+"go to a doctor .
+
+###",You may want to go to a doctor . END,I would encourage you to go to a doctor . END END END END END END,"['Advise without Permission', 'Other']"
+"do something that might be fun .
+
+###",I encourage you to do something that might be fun . END,An option would be to do something that might be fun . END END END END,"['Advise without Permission', 'Other']"
+"go out !
+
+###",An option would be to go out ! END,It maybe helpful to go out ! END END I wonder if you can go out,"['Advise without Permission', 'Other']"
+"focus on things that makes you happy .
+
+###",I wonder if you can focus on things that makes you happy . END,An option would be to focus on things that makes you happy . END END,"['Advise with Permission', 'Other']"
+"try to talk to a counselor to sort this out .
+
+###",It maybe helpful to try to talk to a counselor to sort this out . END,I wonder if you can try to talk to a counselor to sorts this out .,['Advise with Permission']
+"find something that makes you feel something new and keep exploring it .
+
+###",An option would be to find something that makes you feel something new and keep exploring it . END,I wonder if you can find something that makes you feel something new and keep exploring,['Advise with Permission']
+"find something you enjoy and work towards it .
+
+###",It would be a good idea to find something you enjoy and work towards it . END,It maybe helpful to find something you enjoy and work towards it . END END END,"['Advise without Permission', 'Other']"
+"keep trying new things !
+
+###",It maybe helpful to keep trying new things ! END,I encourage you to try new things ! END Notes It would be a good idea,"['Advise without Permission', 'Other']"
+"Maybe you can help around the house in general , or work .
+
+###","Perhaps you can help around the house in general , or work . END","Maybe it is important to help around the house in general , or work . END","['Give Information', 'Other']"
+"keep pushing .
+
+###",An option would be to keep pushing . END,"It maybe helpful to push.
+
+ I wonder if you can push until you can","['Give Information', 'Emphasize Autonomy']"
+"make sure to take care of yourself .
+
+###",I wonder if you can make sure to take care of yourself . END,It would be a good idea to make sure to take care of yourself . END,"['Advise without Permission', 'Other']"
+"I think you should talk to somebody you trust about this , somebody close , so they can help you through this .
+
+###","It would be a good idea to talk to somebody you trust about this , somebody close , so they can help you through this . END","I wonder if you can talk to somebody you trust about this , somebody close ,",['Advise with Permission']
+"keep your head up and the best thing you can do is to love yourself .
+
+###",You may want to keep your head up and the best thing you can do is to love yourself . END,It would be a good idea to keep your head up and the best thing you,['Advise without Permission']
+"work harder .
+
+###",Perhaps you can work harder . END,It perhaps is important to work harder . END I encourage you to work harder .,"['Advise with Permission', 'Advise without Permission']"
+"You need to leave him !
+
+###",It may be important to leave him ! END,Maybe it is important to leave him ! END END I encourage you to leave him,"['Give Information', 'Advise without Permission']"
+"You should tell them about your feelings
+
+###",I encourage you to tell them about your feelings END,You may want to tell them about your feelings END encourage them to tell them about,['Advise without Permission']
+"give it time , in my experience with life , time can do wonders , all you have to do is be patient enough .
+
+###","Maybe it is important to give it time , in my experience with life , time can do wonders , all you have to do is be patient enough . END","I would encourage you to give it time , in my experience with life , time",['Advise with Permission']
+"look forward until the next day you do something , just make that day a reality .
+
+###","I encourage you to look forward until the next day you do something , just make that day a reality . END","It maybe helpful to look forward until the next day you do something , just make",['Advise without Permission']
+"do whatever you think is right , but do n't do nothing .
+
+###","It maybe helpful to do whatever you think is right , but do n't do nothing . END","Perhaps you can do whatever you think is right , but do n't do nothing",['Emphasize Autonomy']
+"take care of yourself .
+
+###",I encourage you to take care of yourself . END,An option would be to take care of yourself . END END I wonder if you,"['Advise with Permission', 'Other']"
+"take care of yourself first then others .
+
+###",I encourage you to take care of yourself first then others . END,It would be a good idea to take care of yourself first then others . END,"['Advise without Permission', 'Other']"
+"You need to boost your self esteeming by focusing on * * self love/self respect * * .
+
+###",An option would be to boost your self esteeming by focusing on * * self love/self respect * * . END,? It would be a good idea to boost your self esteeming by focusing on,"['Other', 'Advise with Permission']"
+"You need to separate from your mother if possible .
+
+###",It may be important to separate from your mother if possible . END,You may want to separate from your mother if possible. END OF MESSA,"['Advise with Permission', 'Other']"
+"You need to make an appointment with a therapist .
+
+###",You may want to make an appointment with a therapist . END,You may want to make an appointment with a therapist . END Falah Katou,"['Advise with Permission', 'Other']"
+"check with your friends to see if there is anything new that has popped up recently .
+
+###",I wonder if you can check with your friends to see if there is anything new that has popped up recently . END,Perhaps you can check with your friends to see if there is anything new that has,['Advise without Permission']
+"sounds like some extremely serious anxiety and you 're wise to seek help with it .
+
+###",You may want to sounds like some extremely serious anxiety and you 're wise to seek help with it . END,You may want to sounds like some extremely serious anxiety and you 're wise to,['Confront']
+"know you need to take care of yourself .
+
+###",It may be important to know you need to take care of yourself . END,It may be important to know you need to take care of yourself . END END,"['Advise with Permission', 'Other']"
+"tell him how you feel .
+
+###",An option would be to tell him how you feel . END,It may be important to tell him how you feel . END END END END END,"['Advise with Permission', 'Other']"
+"I think you should send her this letter , maybe she can understand you and talk to you more about it , maybe she is going to reject dating you again but she 's probably going to make you more comfortable .
+
+###","Perhaps you can send her this letter , maybe she can understand you and talk to you more about it , maybe she is going to reject dating you again but she 's probably going to make you more comfortable . END","I would encourage you to send her this letter , maybe she can understand you and",['Advise without Permission']
+"keep communicating with your friend .
+
+###",It would be a good idea to keep communicating with your friend . END,I would encourage you to communicate with your friend . END END END I encourage you,"['Advise without Permission', 'Support']"
+"take your joy as it comes .
+
+###",I would encourage you to take your joy as it comes . END,Perhaps you can take your joy as it comes . END MS END MS END MS,"['Emphasize Autonomy', 'Other']"
+"find something that brings satisfaction in your life .
+
+###",It may be important to find something that brings satisfaction in your life . END,Perhaps you can find something that brings satisfaction in your life . END encourage you to,"['Give Information', 'Advise without Permission']"
+"do what you have to do to cope with the emotional pain .
+
+###",Perhaps you can do what you have to do to cope with the emotional pain . END,It perhaps is important to do what you have to do to cope with the emotional,['Advise with Permission']
+"tell them how you feel .
+
+###",You may want to tell them how you feel . END,Perhaps you can tell them how you feel . END END OF RECAP OF V,"['Advise without Permission', 'Give Information']"
+"stop feeling sorry for yourself because you 're never going to get out of the hole that you are in otherwise .
+
+###",I would encourage you to stop feeling sorry for yourself because you 're never going to get out of the hole that you are in otherwise . END,I encourage you to feel sorry for yourself because you 're never going to get,['Emphasize Autonomy']
+"take care of yourself .
+
+###",Maybe it is important to take care of yourself . END,"You may want to take care of yourself . END END
+
+ I encourage you to","['Advise with Permission', 'Advise without Permission']"
+"You should talk to you partner about this .
+
+###",I encourage you to talk to you partner about this . END,Perhaps you can talk to you partner about this . END I would encourage you to,"['Advise without Permission', 'Advise without Permission']"
+"take your time healing from that breakup and try to learn as much as possible from the pain and the joy of it .
+
+###",I encourage you to take your time healing from that breakup and try to learn as much as possible from the pain and the joy of it . END,I would encourage you to take your time healing from that breakup and try to learn,['Advise without Permission']
+"speak to a therapist , see them regularly .
+
+###","I encourage you to speak to a therapist , see them regularly . END","I encourage you to talk to a therapist , see them regularly . END END END","['Advise without Permission', 'Other']"
+"think about id this relationship is worth it .
+
+###",I encourage you to think about id this relationship is worth it . END,Maybe it is important to think about id this relationship is worth it . END END,"['Advise with Permission', 'Other']"
+"pick your battles .
+
+###",Maybe it is important to pick your battles . END,Maybe it is important to pick your battles . END I encourage you to pick your,"['Give Information', 'Emphasize Autonomy']"
+"talk to a doctor about the way your feeling , talk to your close friends , and i ' f you feel comfortable with it talk to your family .
+
+###","Maybe it is important to talk to a doctor about the way your feeling , talk to your close friends , and i ' f you feel comfortable with it talk to your family . END","Perhaps you can talk to a doctor about the way your feeling , talk to your",['Advise without Permission']
+"try to reach out to anyone you think might not be an asshole aboit it
+
+###",It maybe helpful to try to reach out to anyone you think might not be an asshole aboit it END,I encourage you to try to reach out to anyone you think might not be an,['Advise without Permission']
+"try talking to them maybe .
+
+###",An option would be to try talking to them maybe . END,Maybe it is important to talk to them maybe . END I would encourage you to,"['Advise with Permission', 'Advise without Permission']"
+"take is easy on yourself
+
+###",I encourage you to take is easy on yourself END,I encourage you to take is easy on yourself END OF OPT  I encourage you,['Emphasize Autonomy']
+"You should see a counsellor and get help for your depression , but it 's not an unusual thing and lots of people go through it & lt ; 3
+
+###","You may want to see a counsellor and get help for your depression , but it 's not an unusual thing and lots of people go through it & lt ; 3 END",An option would be to see a counsellor and get help for your depression,['Advise with Permission']
+"tell someone you trust about it , that 's the first step .
+
+###","It maybe helpful to tell someone you trust about it , that 's the first step . END","I encourage you to tell someone you trust about it , that 's the first",['Advise without Permission']
+"notice the small things .
+
+###",You may want to notice the small things . END,It would be a good idea to notice the small things . END END END END,"['Advise without Permission', 'Other']"
+"Maybe you could go talk with a private therapist or a counselor to get advice and help you work through this .
+
+###",An option would be to go talk with a private therapist or a counselor to get advice and help you work through this . END,Maybe it is important to go talk with a private therapist or a counselor to get,['Advise with Permission']
+"try to talk to him about it again .
+
+###",It would be a good idea to try to talk to him about it again . END,An option would be to try to talk to him about it again . END I,"['Advise with Permission', 'Other']"
+"You need to find someone who wants a relationship as much as you do , or at least more .
+
+###","I would encourage you to find someone who wants a relationship as much as you do , or at least more . END",I wonder if you can find someone who wants a relationship as much as you do,['Advise with Permission']
+"go see a doctor .
+
+###",It may be important to go see a doctor . END,"I encourage you to see a doctor . END OF END OF END OF
+
+ I","['Advise without Permission', 'Other']"
+"learn .
+
+###",An option would be to learn . END,I encourage you to learn . END I encourage you to learn . END I encourage,"['Advise without Permission', 'Advise without Permission', 'Other']"
+"reach out to a mental health professional before attempting to research symptoms .
+
+###",I would encourage you to reach out to a mental health professional before attempting to research symptoms . END,Sometimes it is important to reach out to a mental health professional before attempting to research,['Advise without Permission']
+"You need to go discover new things .
+
+###",It may be important to go discover new things . END,I wonder if you can go discover new things . END END END END END END,"['Advise with Permission', 'Other']"
+"fight for love , do n't give up on me .
+
+###","An option would be to fight for love , do n't give up on me . END","It would be a good idea to fight for love , do n't give up",['Advise without Permission']
+"get help .
+
+###",An option would be to get help . END,It may be important to give help . END ) I wonder if you can get,"['Advise without Permission', 'Other']"
+"talk to her about it , see where she 's coming from , suggest therapy if appropriate for both of you .
+
+###","I would encourage you to talk to her about it , see where she 's coming from , suggest therapy if appropriate for both of you . END","Perhaps you can talk to her about it , see where she 's coming from",['Advise without Permission']
+"seek help .
+
+###",Perhaps you can seek help . END,I wonder if you can ask help . END END I wonder if you can ask,"['Advise with Permission', 'Other']"
+"start with going for a walk !
+
+###",It may be important to start with going for a walk ! END,It may be important to start with going for a walk ! END END END END,"['Advise with Permission', 'Other']"
+"take your time to learn yourself and figure out what you want .
+
+###",An option would be to take your time to learn yourself and figure out what you want . END,It maybe helpful to take your time to learn yourself and figure out what you want,['Advise with Permission']
+"go and see a therapist if you can .
+
+###",I encourage you to go and see a therapist if you can . END,You may want to go and see a therapist if you can . END END END,"['Advise without Permission', 'Other']"
+"You can talk about these things with a therapist .
+
+###",You may want to talk about these things with a therapist . END,It would be a good idea to talk about these things with a therapist . END,"['Advise with Permission', 'Other']"
+"forget them .
+
+###",It maybe helpful to forget them . END,"It may be important to forget them . END
+
+ I would encourage you to forget","['Advise with Permission', 'Advise without Permission']"
+"start planning .
+
+###",Maybe it is important to start planning . END,"I wonder if you can plan out your options .
+
+ END I encourage you","['Advise with Permission', 'Affirm']"
+"ask your primary care physician for a referral to a psychiatrist .
+
+###",Perhaps you can ask your primary care physician for a referral to a psychiatrist . END,It would be a good idea to ask your primary care physician for a referral to,['Advise with Permission']
+"keep your son as safe and well as you can .
+
+###",It would be a good idea to keep your son as safe and well as you can . END,I would encourage you to keep your son as safe and well as you can .,['Advise without Permission']
+"lower your bill as much as possible by getting rid of non essential like cable bills etc .
+
+###",I wonder if you can lower your bill as much as possible by getting rid of non essential like cable bills etc . END,I wonder if you can raise your bill as much as possible by getting rid of,['Advise with Permission']
+"find someone else to try new things with , better things .
+
+###","It maybe helpful to find someone else to try new things with , better things . END","I encourage you to find someone else to try new things with , better things .",['Advise without Permission']
+"hope you find healing soon .
+
+###",I encourage you to hope you find healing soon . END,You may want to hope you find healing soon . END END END END I would,"['Support', 'Other']"
+"Maybe you can help him through his issues , but if he does n't even think he has an issue then it 's a stalemate until he 's ready .
+
+###","Perhaps you can help him through his issues , but if he does n't even think he has an issue then it 's a stalemate until he 's ready . END","Perhaps you can help him through his issues , but if he does n't even",['Emphasize Autonomy']
+"You can reset your outlook on life .
+
+###",It may be important to reset your outlook on life . END,"You may want to reset your outlook on life . END
+
+ I encourage you to","['Advise with Permission', 'Advise without Permission']"
+"I think you should find a new therapist that wants to do behavioural therapy if you are opposed to medications .
+
+###",An option would be to find a new therapist that wants to do behavioural therapy if you are opposed to medications . END,Perhaps you can find a new therapist that wants to do behavioural therapy if you are,['Emphasize Autonomy']
+"say `` please dont get mad at me '' or something before talking about it .
+
+###",It may be important to say `` please dont get mad at me '' or something before talking about it . END,It maybe helpful to dont get mad at me � I would encourage you to dont,['Advise without Permission']
+"take your time because it will take time .
+
+###",Perhaps you can take your time because it will take time . END,I encourage you to take your time because it will take time . END MORE,"['Advise without Permission', 'Other']"
+"You need to focus on you , not her .
+
+###","Perhaps you can focus on you , not her . END","It would be a good idea to focus on you , not her . END END","['Advise without Permission', 'Other']"
+"I think you should try the councillor and see if it helps .
+
+###",It would be a good idea to try the councillor and see if it helps . END,I wonder if you can try the councillor and see if it helps . END END,"['Advise with Permission', 'Other']"
+"try writing 3 positive things every night that you did that day , it will be hard in the beginning but after a while it will become easier , at some point you 'll hopefully be ready to talk to someone .
+
+###","An option would be to try writing 3 positive things every night that you did that day , it will be hard in the beginning but after a while it will become easier , at some point you 'll hopefully be ready to talk to someone . END",I wonder if you can try writing 3 positive things every night that you did that,['Advise with Permission']
+"get help .
+
+###",An option would be to get help . END,It would be a good idea to get help . END I wonder if you can,"['Advise without Permission', 'Other']"
+"take some time for you , stay off of social media , hang out with friends as much as possible .
+
+###","I encourage you to take some time for you , stay off of social media , hang out with friends as much as possible . END","I encourage you to take some time for you , stay off of social media ,",['Advise without Permission']
+"try to find someone or something else that can support you .
+
+###",I would encourage you to try to find someone or something else that can support you . END,An option would be to try to find someone or something else that can support you,['Advise without Permission']
+"learn to live with the loss , always keep her in your heart , and take that love you have and give it to another dog when you are ready .
+
+###","An option would be to learn to live with the loss , always keep her in your heart , and take that love you have and give it to another dog when you are ready . END","I encourage you to learn to live with the loss , always keep her in your",['Advise without Permission']
+"try and keep yourself busy .
+
+###",It maybe helpful to try and keep yourself busy . END,It would be a good idea to try and keep yourself busy . END END Perhaps,"['Advise without Permission', 'Other']"
+"become a better you for his sake , as well as the sake of your relationship .
+
+###","Maybe it is important to become a better you for his sake , as well as the sake of your relationship . END","I wonder if you can become a better you for his sake , as well as",['Advise with Permission']
+"get your priorities straight .
+
+###",I would encourage you to get your priorities straight . END,It would be a good idea to get your priorities straight . END END Supporting something,"['Advise without Permission', 'Other']"
+"train your body and mind in this routine and that will help .
+
+###",Perhaps you can train your body and mind in this routine and that will help . END,I wonder if you can educate your body and mind in this routine and that will,['Advise with Permission']
+"try something new ?
+
+###",I wonder if you can try something new ? END,It would be a good idea to try something new ? END I would encourage you,"['Advise without Permission', 'Advise without Permission']"
+"take care of yourselves .
+
+###",An option would be to take care of yourselves . END,It may be important to take care of yourselves . ENDensable I encourage you to,"['Advise with Permission', 'Advise without Permission']"
+"get the fuck out of your relationship and move on .
+
+###",Maybe it is important to get the fuck out of your relationship and move on . END,It would be a good idea to get the fuck out of your relationship and move,['Advise without Permission']
+"go outside , go out for walks .
+
+###","An option would be to go outside , go out for walks . END","Perhaps you can go outside , go out for walks . END END IT I wonder","['Advise without Permission', 'Other']"
+"figure out exactly what you want from a relationship before you jump into a new one .
+
+###",Perhaps you can figure out exactly what you want from a relationship before you jump into a new one . END,It would be a good idea to figure out exactly what you want from a relationship,['Advise without Permission']
+"find something , and keep trying .
+
+###","It maybe helpful to find something , and keep trying . END","Let would be a good idea to find something , and keep trying . END END","['Advise without Permission', 'Other']"
+"stay strong , and please keep us updated .
+
+###","It maybe helpful to stay strong , and please keep us updated . END","I encourage you to stay strong , and please keep us updated . END I encourage","['Advise without Permission', 'Other']"
+"believe in yourself .
+
+###",You may want to believe in yourself . END,I encourage you to believe in yourself . END END encourage you to believe in yourself,"['Emphasize Autonomy', 'Direct']"
+"trust me , you need to talk to someone about your feelings .
+
+###","It may be important to trust me , you need to talk to someone about your feelings . END","It maybe helpful to trust me , you need to talk to someone about your feelings",['Advise with Permission']
+"You can also look into if your school has a counseling center .
+
+###",It may be important to also look into if your school has a counseling center . END,I encourage you to also look into if your school has a counseling center . END,"['Advise without Permission', 'Other']"
+"keep working hard to the best of your ability and try to talk to someone , even professional help .
+
+###","It would be a good idea to keep working hard to the best of your ability and try to talk to someone , even professional help . END",People would be a good idea to keep working hard to the best of your ability,['Advise without Permission']
+"take time for yourself .. it 's going to be hard but it really sounds like you need it .
+
+###",Perhaps you can take time for yourself .. it 's going to be hard but it really sounds like you need it . END,Maybe it is important to take time for yourself .. it 's going to be,['Advise without Permission']
+"You should definitely get help .
+
+###",I wonder if you can definitely get help . END,It may be important to definitely get help . END END END An option would be,"['Advise with Permission', 'Other']"
+"I think you should since it sounds like you do regret it and you guys haven ’ t interacted in a few months since .
+
+###",It may be important to since it sounds like you do regret it and you guys haven ’ t interacted in a few months since . END,Maybe it is important to since it sounds like you do regret it and you guys,['Confront']
+"try to convince her to make an appointment with a therapist asap , tell her that you care about her and want to make sure she gets the help she needs so that she can become happy again and that you think she needs to make an appointment
+
+###","Maybe it is important to try to convince her to make an appointment with a therapist asap , tell her that you care about her and want to make sure she gets the help she needs so that she can become happy again and that you think she needs to make an appointment END",I wonder if you can try to convince her to make an appointment with a therapist,['Advise with Permission']
+"enjoy life !
+
+###",I encourage you to enjoy life ! END,I would encourage you to enjoy life ! END END END END I encourage you to,"['Advise without Permission', 'Advise without Permission']"
+"make yourself happy before you make anyone else happy , because once you ’ re happy , the amount of happiness you ’ d be able to spread is priceless .
+
+###","You may want to make yourself happy before you make anyone else happy , because once you ’ re happy , the amount of happiness you ’ d be able to spread is priceless . END","Perhaps you can make yourself happy before you make anyone else happy , because once you",['Emphasize Autonomy']
+"talk things out with them while you still can
+
+###",An option would be to talk things out with them while you still can END,I wonder if you can talkไทยเอ,['Other']
+"keep up the good work .
+
+###",An option would be to keep up the good work . END,I would encourage you to keep up the good work . END END END END END,"['Affirm', 'Other']"
+"I think you should definitely talk to a doctor or psychiatrist if you think you might have it .
+
+###",It maybe helpful to definitely talk to a doctor or psychiatrist if you think you might have it . END,The last thing you can do is definitely talk to a doctor or psychiatrist if you,['Advise without Permission']
+"see a therapist .
+
+###",It may be important to see a therapist . END,"I would encourage you to see a therapist . END END
+
+ I encourage you to","['Advise without Permission', 'Advise without Permission']"
+"do something new .
+
+###",It would be a good idea to do something new . END,Maybe it is important to do something new . END 2017 I wonder if you can,"['Give Information', 'Other']"
+"learn to love the new paint color and keep reminding yourself that it ’ s the same house and it will always be the same house , just some things have changed .
+
+###","I encourage you to learn to love the new paint color and keep reminding yourself that it ’ s the same house and it will always be the same house , just some things have changed . END",Perhaps you can learn to love the new paint color and keep reminding yourself that it,['Advise without Permission']
+"give yourself time and space to work through , though do n't tell yourself this has to be your last relationship , even if it feels that way now
+
+###","Maybe it is important to give yourself time and space to work through , though do n't tell yourself this has to be your last relationship , even if it feels that way now END","I would encourage you to give yourself time and space to work through , though do",['Advise without Permission']
+"hang out with your friends and enjoy your hobbies .
+
+###",I wonder if you can hang out with your friends and enjoy your hobbies . END,An option would be to hang out with your friends and enjoy your hobbies . END,"['Advise with Permission', 'Other']"
+"try joining a gym .
+
+###",Perhaps you can try joining a gym . END,It would be a good idea to try joining a gym . END I encourage you,"['Advise without Permission', 'Affirm']"
+"You can ’ t change the past so the best thing you can do is accept what you did and don ’ t make the same mistakes again .
+
+###",It would be a good idea to ’ t change the past so the best thing you can do is accept what you did and don ’ t make the same mistakes again . END,It maybe helpful to ’ t change the past so the best thing you can,['Give Information']
+"I think you should have a talk with these people and let them know how there words hurt , especially if these are friends or family
+
+###","Perhaps you can have a talk with these people and let them know how there words hurt , especially if these are friends or family END",Perhaps you can have a talk with these people and let them know how there words,['Advise without Permission']
+"try to support her in the ways you can , ask her how she ’ s been handling the death and suggest therapy .
+
+###","An option would be to try to support her in the ways you can , ask her how she ’ s been handling the death and suggest therapy . END","Perhaps you can try to support her in the ways you can , ask her how",['Advise without Permission']
+"talk with your mother .
+
+###",Perhaps you can talk with your mother . END,Perhaps you can talk with your mother . END END encourage you to talk with your,"['Advise with Permission', 'Advise without Permission']"
+"I think you should start writing again , not to much , but like how you feel or what your thinking .
+
+###","It may be important to start writing again , not to much , but like how you feel or what your thinking . END","Perhaps you can start writing again , not to much , but like how you feel",['Advise without Permission']
+"explain you would like to speak to your doctor and possibly a therapist just to get a load off of your chest .
+
+###",I encourage you to explain you would like to speak to your doctor and possibly a therapist just to get a load off of your chest . END,It may be important to explain you would like to speak to your doctor and possibly,['Advise with Permission']
+"start a new tradition or holiday of your own .
+
+###",It would be a good idea to start a new tradition or holiday of your own . END,You may want to start a new tradition or holiday of your own . END highlights,"['Advise with Permission', 'Other']"
+"do anything in your willpower to get out of being pushed around like that !
+
+###",It maybe helpful to do anything in your willpower to get out of being pushed around like that ! END,I encourage you to do anything in your willpower to get out of being pushed around,['Emphasize Autonomy']
+"You should really try to talk to someone about it and possibly your mom .
+
+###",I would encourage you to really try to talk to someone about it and possibly your mom . END,You may want to really try to talk to someone about it and possibly your mom,['Advise without Permission']
+"believe in yourself .
+
+###",An option would be to believe in yourself . END,"It would be a good idea to believe in yourself . END
+
+ END END I","['Advise without Permission', 'Other']"
+"try and work on getting into the mindset of realising that what you 're thinking about yourself is completely different to reality , it 's a really bad habit to break but i 've got good news for you , it 's possible .
+
+###","It maybe helpful to try and work on getting into the mindset of realising that what you 're thinking about yourself is completely different to reality , it 's a really bad habit to break but i 've got good news for you , it 's possible . END",You may want to try and work on getting into the mindset of realising that,['Advise without Permission']
+"sounds like your coworkers have no boundaries , i think you need to be assertive with them .
+
+###","I encourage you to sounds like your coworkers have no boundaries , i think you need to be assertive with them . END","I wonder if you can sound like your coworkers have no boundaries , i think you",['Confront']
+"You can love her without it being romantic or sexual love .
+
+###",You may want to love her without it being romantic or sexual love . END,I wonder if you can love her without it being romantic or sexual love . END,"['Complex Reflection', 'Other']"
+"stay strong and please do n't physically harm yourself .
+
+###",Perhaps you can stay strong and please do n't physically harm yourself . END,I encourage you to stay strong and please do n't physically harm yourself . END,"['Support', 'Other']"
+"have to admire that .
+
+###",Maybe it is important to have to admire that . END,It maybe helpful to admire that . END I encourage you to love that . END,"['Affirm', 'Emphasize Autonomy', 'Other']"
+"talk to someone if you are n't already .
+
+###",Perhaps you can talk to someone if you are n't already . END,An option would be to talk to someone if you are n't already . END,"['Advise without Permission', 'Other']"
+"get into therapy .
+
+###",It would be a good idea to get into therapy . END,Perhaps you can get into therapy . END - I encourage you to get into therapy,"['Emphasize Autonomy', 'Advise without Permission']"
+"get with a counselor and ask about group therapy .
+
+###",It may be important to get with a counselor and ask about group therapy . END,Maybe it is important to get with a counselor and ask about group therapy . END,"['Advise with Permission', 'Other']"
+"take all the time you need .
+
+###",It may be important to take all the time you need . END,Perhaps you can take all the time you need . END END I would encourage you,"['Emphasize Autonomy', 'Affirm']"
+"You need to start believing the words coming from yourself before your mind is capable of believing them from someone else .
+
+###",An option would be to start believing the words coming from yourself before your mind is capable of believing them from someone else . END,I wonder if you can start believing the words coming from yourself before your mind is,['Advise with Permission']
+"You should seek help .
+
+###",I wonder if you can seek help . END,You may want to seek help . ENDI would encourage you to seek help .,"['Advise with Permission', 'Advise without Permission']"
+"train yourself for when that time arrives .
+
+###",An option would be to train yourself for when that time arrives . END,It would be a good idea to get yourself a fan. It would be a,"['Advise without Permission', 'Give Information']"
+"You should definitely tell a therapist about this .
+
+###",I encourage you to definitely tell a therapist about this . END,It maybe helpful to definitely tell a therapy about this . END I encourage you to,"['Advise with Permission', 'Advise without Permission']"
+"see therapist for your depression .
+
+###",Perhaps you can see therapist for your depression . END,It would be a good idea to get a therapist for your depression . END END,"['Advise without Permission', 'Other']"
+"do what makes you happy .
+
+###",Maybe it is important to do what makes you happy . END,"When you feel like doing what makes you happy . END END
+
+ I wonder if","['Advise without Permission', 'Other']"
+"get help
+
+###",An option would be to get help END,It would be a good idea to get help,['Advise without Permission']
+"go see psychiatrist as soon as possible , mate .
+
+###","I encourage you to go see psychiatrist as soon as possible , mate . END","I would encourage you to see psychiatrist as soon as possible , mate . END I","['Advise without Permission', 'Other']"
+"try to enjoy the good moments as much as possible
+
+###",It may be important to try to enjoy the good moments as much as possible END,It would be a good idea to try to enjoy the good moments as much as,['Advise without Permission']
+"sounds like an abusive or a manipulative person , you might want to consider leaving her if she ca n't understand you or apply basic human empathy .
+
+###","I encourage you to sounds like an abusive or a manipulative person , you might want to consider leaving her if she ca n't understand you or apply basic human empathy . END","It maybe helpful to sound like an abusive or a manipulative person , you maybe want",['Give Information']
+"seek help
+
+###",I would encourage you to seek help END,"I encourage you to seek help
+ etc. maybe it is important to seek help","['Advise without Permission', 'Advise with Permission']"
+"seek therapy to help you realize that your life is meaningful and you can , quite literally , move mountains , acheive your dreams , and rise above everything .
+
+###","It may be important to seek therapy to help you realize that your life is meaningful and you can , quite literally , move mountains , acheive your dreams , and rise above everything . END",Perhaps you can try to get therapy to help you realize that your life is meaningful,['Advise without Permission']
+"ignore them .
+
+###",Perhaps you can ignore them . END,"Perhaps you can keep them.
+
+###
+
+ I wonder if you can avoid","['Advise without Permission', 'Other']"
+"seek help if you are going to .
+
+###",Maybe it is important to seek help if you are going to . END,I wonder if you can seek help if you are going to . END END I,"['Advise with Permission', 'Other']"
+"reach out to a psychiatrist for help and they will probably start you on a round of them .
+
+###",I encourage you to reach out to a psychiatrist for help and they will probably start you on a round of them . END,Perhaps you can reach out to a psychiatrist for help and they will probably start you,['Advise without Permission']
+"You can try connecting with your old friends .
+
+###",I wonder if you can try connecting with your old friends . END,You may want to try connecting with your old friends . END OF END OF END,"['Advise with Permission', 'Other']"
+"tell him how you feel .
+
+###",Maybe it is important to tell him how you feel . END,Maybe it is important to tell him how you feel . END END END END END,"['Advise with Permission', 'Other']"
+"You need to break free because as long as you ’ re around people who make you feel bad you ’ ll be depressed .
+
+###",I encourage you to break free because as long as you ’ re around people who make you feel bad you ’ ll be depressed . END,I encourage you to break free because as long as you ’ re around people,['Advise without Permission']
+"You could help someone out of the worst feeling you 've ever had and be there for someone who needs someone to be there for them .
+
+###",Perhaps you can help someone out of the worst feeling you 've ever had and be there for someone who needs someone to be there for them . END,It would be a good idea to help someone out of the worst feeling you ',['Advise without Permission']
+"I think you should try and schedule an appointment with a doctor , and in the meantime try your hardest to ignore your alternate brains .
+
+###","An option would be to try and schedule an appointment with a doctor , and in the meantime try your hardest to ignore your alternate brains . END","I see that you can try and schedule an appointment with a doctor , and in",['Advise without Permission']
+"see a doctor .
+
+###",I encourage you to see a doctor . END,I wonder if you can see a doctor . END END I wonder if you can,"['Advise with Permission', 'Other']"
+"move out of the house immediately .
+
+###",It would be a good idea to move out of the house immediately . END,It would be a good idea to get out of the house immediately . END END,"['Advise without Permission', 'Other']"
+"enjoy life .
+
+###",I wonder if you can enjoy life . END,You may want to enjoy life . END END END END END END END END END,"['Advise with Permission', 'Other']"
+"try to respond to yourself with kindness and compassion .
+
+###",It may be important to try to respond to yourself with kindness and compassion . END,It maybe helpful to try to respond to yourself with kindness and compassion . END COMP,"['Advise with Permission', 'Other']"
+"I think you should tell the people in your life some of the stuff you 're going through and some of the things making you feel this way and possibly consider counselling or support groups
+
+###",I would encourage you to tell the people in your life some of the stuff you 're going through and some of the things making you feel this way and possibly consider counselling or support groups END,Maybe it is important to tell the people in your life some of the stuff you,['Advise with Permission']
+"allow yourself time to heal , especially after such a traumatic event .
+
+###","I wonder if you can allow yourself time to heal , especially after such a traumatic event . END","Perhaps you can allow yourself time to heal , especially after such a traumatic event .",['Advise without Permission']
+"get help .
+
+###",Maybe it is important to get help . END,I would encourage you to get help . END OF I wonder if you can help,"['Advise without Permission', 'Other']"
+"I think you should be honest and tell him you need time and space to figure yourself out and then go experiment .
+
+###",It maybe helpful to be honest and tell him you need time and space to figure yourself out and then go experiment . END,It maybe helpful to be honest and tell him you need time and space to figure,['Advise without Permission']
+"You should be dating around , having fun , and figuring out what to do with your life .
+
+###","It maybe helpful to be dating around , having fun , and figuring out what to do with your life . END","I would encourage you to be dating around , having fun , and figuring out what",['Advise without Permission']
+"trust me , there 's people out there who care and want to help .
+
+###","I would encourage you to trust me , there 's people out there who care and want to help . END","It may be important to believe me , there 's people out there who care",['Advise without Permission']
+"open up to people .
+
+###",You may want to open up to people . END,I wonder if you can open up to people . END END END END I wonder,"['Closed Question', 'Other']"
+"take a breath and feel the air keeping you alive .
+
+###",It would be a good idea to take a breath and feel the air keeping you alive . END,Maybe it is important to take a breath and feel the air keeping you alive .,['Advise with Permission']
+"give her a date that you both can mutually agree on for her to move out .
+
+###",It may be important to give her a date that you both can mutually agree on for her to move out . END,I wonder if you can give her a date that you both can mutually agree on,['Advise with Permission']
+"keep going and take care of yourself !
+
+###",It may be important to keep going and take care of yourself ! END,I would encourage you to keep going and take care of yourself ! END END END,"['Advise without Permission', 'Other']"
+"make it clear to her that her behavior is upsetting to you , and ask her how she feels as well .
+
+###","It maybe helpful to make it clear to her that her behavior is upsetting to you , and ask her how she feels as well . END","Perhaps you can make it clear to her that her behavior is upsetting to you ,",['Advise without Permission']
+"do things that make you happy ... we ’ re here for such a short time , experience what you can , make the most of it .
+
+###","Perhaps you can do things that make you happy ... we ’ re here for such a short time , experience what you can , make the most of it . END",You may want to do things that make you happy ... we ’ re here,['Support']
+"fear that if you trust , you 'll be betrayed .
+
+###","It maybe helpful to fear that if you trust , you 'll be betrayed . END","I encourage you to fear that if you trust , you 'll be betrayed .",['Advise without Permission']
+"I think you should focus on your happiness and what makes you thrive without her .
+
+###",I encourage you to focus on your happiness and what makes you thrive without her . END,I wonder if you can focus on your happiness and what makes you thrive without her,['Advise with Permission']
+"keep taking small steps towards improving your life .
+
+###",I would encourage you to keep taking small steps towards improving your life . END,It would be a good idea to keep taking small steps towards improving your life .,['Advise without Permission']
+"ask him for a coffee or whatever you think would be fun for the both of you .
+
+###",You may want to ask him for a coffee or whatever you think would be fun for the both of you . END,An option would be to Ask him for a coffee or whatever you think would be,['Advise with Permission']
+"explore your sadness and allow yourself to feel it .
+
+###",I encourage you to explore your sadness and allow yourself to feel it . END,Perhaps you can explore your sadness and allow yourself to feel it . END END,"['Advise without Permission', 'Other']"
+"seek out therapy and make some male friends you can trust as your support network and slowly let them know about what your going through it might be just what you need
+
+###",Perhaps you can seek out therapy and make some male friends you can trust as your support network and slowly let them know about what your going through it might be just what you need END,Maybe it is important to seek out therapy and make some male friends you can trust,['Advise with Permission']
+"talk with him about it
+
+###",I encourage you to talk with him about it END,I encourage you to talk with him about it ENDSTON I would encourage you to,['Advise without Permission']
+"go for a walk .
+
+###",It may be important to go for a walk . END,I wonder if you can go for a walk . END END END END  Perhaps,"['Advise with Permission', 'Other']"
+"talk to someone about how you feel .
+
+###",Maybe it is important to talk to someone about how you feel . END,You may want to talk to someone about how you feel . END END END Jump,"['Advise without Permission', 'Other']"
+"speak to your doctor , and if you are n't comfortable with medication then maybe you could engage in alternative treatment such as therapy .
+
+###","It may be important to speak to your doctor , and if you are n't comfortable with medication then maybe you could engage in alternative treatment such as therapy . END","It maybe helpful to talk to your doctor , and if you are n't comfortable",['Advise without Permission']
+"seek help , look for friends and family .
+
+###","It would be a good idea to seek help , look for friends and family . END","This may be important to seek help , look for friends and family . END .","['Advise with Permission', 'Other']"
+"keep up the good work .
+
+###",Perhaps you can keep up the good work . END,perhaps you can keep up the good work . END END END END END END END,"['Affirm', 'Other']"
+"You could forge a new relationship .
+
+###",It would be a good idea to forge a new relationship . END,"You may want to forge a new relationship . END
+
+ I wonder if you can","['Advise with Permission', 'Other']"
+"make the most of your life .
+
+###",Perhaps you can make the most of your life . END,Maybe it is important to make the most of your life . END Maybe it is,"['Advise with Permission', 'Give Information']"
+"ask for help ?
+
+###",Maybe it is important to ask for help ? END,Perhaps you can seek for help ? ENDII Perhaps you can look for help,"['Closed Question', 'Advise without Permission']"

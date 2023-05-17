@@ -1,0 +1,1 @@
+The MI Augmented (Intersection) and (Union) datasets related to RED can be downloaded from: [https://drive.google.com/file/d/1Dx1VPAe8yu3jOUo8y6nNjQywKJVNRJ1R/view?usp=sharing](https://drive.google.com/file/d/1Dx1VPAe8yu3jOUo8y6nNjQywKJVNRJ1R/view?usp=sharing) It has size of 1.3 GB.

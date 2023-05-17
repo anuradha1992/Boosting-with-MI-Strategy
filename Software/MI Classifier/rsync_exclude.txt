@@ -1,0 +1,9 @@
+.git
+.gitignore
+.DS_Store
+__pycache__
+README.md
+log
+checkpoints
+.ipynb_checkpoints
+weights
